@@ -15,7 +15,7 @@ Automating gameplay is stricly forbidden and may result in a ban. You've got you
 6. Select the profile and click, 'Open'.
 7. Your profile with my macros is now imported.
 8. You can execute macros by pressing hotkeys for the corresponding features.
-# Hotkeys
+# Hotkeys & Features
 1. [ESC] Cancel Macro
 2. [Shift + F1] AutoSow
 # WIP
