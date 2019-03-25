@@ -1,5 +1,5 @@
 # AutoLiF by God v1.0 [WIP]
-Automated Scripts for LiF
+//Automated Scripts for LiF//
 
 Library created by github.com/rydland aka God Almighty [STEAM_0:0:7572]
 
