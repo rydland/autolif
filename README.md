@@ -2,6 +2,7 @@
 Automated macros for LiF.
 1. Optimised for characters with boots equipped and 10 agility. If you've got more than 10 agility on your PvE characters, you should reconsider using certain macros that require movement.
 2. Optimised for clients running at 60fps.
+3. 1*∞ = 1 by infinite pattern
 # Instructions
 1. Navigate to https://github.com/rydland/AutoLiF and download my macros.
 2. Download & Install VoiceAttack: https://voiceattack.com/Default.aspx#download-1
