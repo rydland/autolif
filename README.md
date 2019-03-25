@@ -1,5 +1,5 @@
 # AutoLiF by God v1.0
-Automated macro Library created by github.com/rydland - God Almighty - [STEAM_0:0:7572]. 
+Automated macro Library created by github.com/rydland - God [STEAM_0:0:7572]. 
 1. Optimised for characters with boots equipped and 10 agility. If you've got more than 10 agility on your PvE characters, you should reconsider using certain macros that require movement.
 2. Optimised for clients running at 60fps.
 # Instructions
