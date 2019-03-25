@@ -2,9 +2,9 @@
 Automated macros for LiF, created by G()D.
 1. Optimised for characters with boots equipped and 10 agility. If you've got more than 10 agility on your PvE characters, you should reconsider using certain macros that require movement.
 2. Optimised for clients running at 60fps.
-3. We are using VoiceAttack to avoid having our client being flagged by process sniffers and anti-cheats
-4. 1*∞ = 1 tile by infinite tiles walking pattern (straight pattern)
-5. 2*∞ = 2 tiles by infinite tiles walking pattern (zigzag pattern)
+3. We are using VoiceAttack to avoid being flagged by process sniffers and anti-cheats.
+4. 1*∞ = 1 tile by infinite tiles walking pattern (straight pattern).
+5. 2*∞ = 2 tiles by infinite tiles walking pattern (zigzag pattern).
 # Disclaimer
 Automating gameplay is stricly forbidden and may result in a ban. You've got yourself to blame if you get caught. LiF Rules of Conduct reads as follows: "You may not use any third-party program (such as a “bot”) in order to automate gameplay functions, including playing, chatting, interacting, or gathering items within Life is Feudal MMO. You may not assist, relay, or store currency or items for other players who are using these processes. However the use of simple ‘autoclickers’ is allowed for repetitive single step actions. Using an ‘autoclicker’ to automate anything beyond simple one step processes is considered botting and is forbidden".
 # Instructions
