@@ -13,14 +13,14 @@ Automated Scripts for LiF. Library created by github.com/rydland - God Almighty 
 Esc: Cancel macro
 f1: AutoSow
 # WIP
-1. Add .bat-file to end task "launcher.exe" for ping optimisation.
-2. Add .bat-file to give high prio to "cm_client" for fps optimisation.
-3. Add AutoHarvest
-4. Add AutoGather
-5. Add AutoGather_OnlyFiber
-6. Add AutoHerb
-7. Add AutoFish
-8. Add AutoMinorExp
+1. .bat-file to end task "launcher.exe" for ping optimisation.
+2. .bat-file to give high prio to "cm_client" for fps optimisation.
+3. AutoHarvest
+4. AutoGather
+5. AutoGather_OnlyFiber
+6. AutoHerb
+7. AutoFish
+8. AutoMinorExp
 # Changelogs
 25/03/2019
 1. Project created.
