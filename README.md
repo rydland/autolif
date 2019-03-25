@@ -1,7 +1,7 @@
 # AutoLiF by God v1.0
 Automated macro Library created by github.com/rydland - God Almighty - [STEAM_0:0:7572]. 
 1. Optimised for characters with boots equipped and 10 agility. If you've got more than 10 agility on your PvE characters, you should reconsider using certain macros that require movement.
-2. Macros are created while artifically reducing my fps to 60hz.
+2. Optimised for clients running at 60fps.
 # Instructions
 1. Navigate to https://github.com/rydland/AutoLiF and download my macros.
 2. Download & Install VoiceAttack: https://voiceattack.com/Default.aspx#download-1
