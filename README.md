@@ -15,7 +15,7 @@ Automated macros for LiF.
 8. You can execute macros by pressing hotkeys for the corresponding features.
 # Hotkeys
 1. [ESC] Cancel macro
-2. [F1] AutoSow
+2. [Shift + F1] AutoSow
 # WIP
 1. .bat-file to end task "launcher.exe" for ping optimisation.
 2. .bat-file to give high prio to "cm_client" for fps optimisation.
