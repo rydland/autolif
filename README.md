@@ -1,4 +1,4 @@
-# AutoLiF
+# AutoLiF by God v1.0
 Automated Scripts for LiF
 
 Library created by github.com/rydland aka God Almighty [STEAM_0:0:7572]
@@ -11,3 +11,8 @@ Instructions:
 5. Select the profile and click, 'Open'.
 6. Your profile is now imported.
 7. Execute scripts/commands by pressing the hotkeys for corresponding features.
+
+# Changelog:
+25/03/2019
+1. Project created.
+2. Script "AutoSow" created.
