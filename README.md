@@ -14,7 +14,7 @@ Automated macros for LiF.
 7. Your profile with my macros is now imported.
 8. You can execute macros by pressing hotkeys for the corresponding features.
 # Hotkeys
-1. [ESC] Cancel macro
+1. [ESC] Cancel Macro
 2. [Shift + F1] AutoSow
 # WIP
 1. .bat-file to end task "launcher.exe" for ping optimisation.
