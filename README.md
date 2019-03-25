@@ -19,8 +19,8 @@ Automating gameplay is stricly forbidden and may result in a ban. You've got you
 1. [ESC] Cancel Macro
 2. [Shift + F1] AutoSow
 # WIP
-1. .bat-file to end task "launcher.exe" for ping optimisation.
-2. .bat-file to give high prio to "cm_client" for fps optimisation.
+1. .bat-file to end process "launcher.exe" for ping optimisation.
+2. .bat-file to give high prio to process "cm_client" for fps optimisation.
 3. AutoHarvest
 4. AutoGather
 5. AutoGather_FiberOnly
