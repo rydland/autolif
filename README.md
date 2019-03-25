@@ -2,13 +2,13 @@
 Automated Scripts for LiF. Library created by github.com/rydland - God Almighty - [STEAM_0:0:7572].
 # Instructions
 1. Navigate to https://github.com/rydland/AutoLiF and download my macros.
-1. Download & Install VoiceAttack: https://voiceattack.com/Default.aspx#download-1
-2. Launch VoiceAttack
-3. Select the 'Import Profile' item in the profile list.
-4. Browse to the .vap-file you've downloaded from my github.
-5. Select the profile and click, 'Open'.
-6. Your profile with my macros is now imported.
-7. You can execute macros by pressing hotkeys for the corresponding features.
+2. Download & Install VoiceAttack: https://voiceattack.com/Default.aspx#download-1
+3. Launch VoiceAttack
+4. Select the 'Import Profile' item in the profile list.
+5. Browse to the .vap-file you've downloaded from my github.
+6. Select the profile and click, 'Open'.
+7. Your profile with my macros is now imported.
+8. You can execute macros by pressing hotkeys for the corresponding features.
 # Hotkeys
 1. [ESC] Cancel macro
 2. [F1] AutoSow
@@ -21,6 +21,7 @@ Automated Scripts for LiF. Library created by github.com/rydland - God Almighty 
 6. AutoHerb
 7. AutoFish
 8. AutoMinorExp
+9. Add sensitivity presets & fps presets
 # Changelogs
 25/03/2019
 1. Project created.
