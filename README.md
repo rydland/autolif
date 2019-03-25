@@ -1,5 +1,5 @@
 # AutoLiF by God v1.0
-Automated Scripts for LiF. Library created by github.com/rydland - God Almighty - [STEAM_0:0:7572].
+Automated Scripts for LiF. Library created by github.com/rydland - God Almighty - [STEAM_0:0:7572]. Macros are optimised for characters with boots equipped and 10 agility.
 # Instructions
 1. Navigate to https://github.com/rydland/AutoLiF and download my macros.
 2. Download & Install VoiceAttack: https://voiceattack.com/Default.aspx#download-1
@@ -21,7 +21,7 @@ Automated Scripts for LiF. Library created by github.com/rydland - God Almighty 
 6. AutoHerb
 7. AutoFish
 8. AutoMinorExp
-9. Add sensitivity presets & fps presets
+9. Add sensitivity presets and fps presets
 # Changelogs
 25/03/2019
 1. Project created.
