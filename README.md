@@ -1,7 +1,7 @@
 # AutoLiF by God v1.0 [WIP]
 Automated Scripts for LiF. Library created by github.com/rydland - God Almighty - [STEAM_0:0:7572].
 # Instructions
-1. Navigate to https://github.com/rydland/AutoLiF & download my macros.
+1. Navigate to https://github.com/rydland/AutoLiF and download my macros.
 1. Download & Install VoiceAttack: https://voiceattack.com/Default.aspx#download-1
 2. Launch VoiceAttack
 3. Select the 'Import Profile' item in the profile list.
