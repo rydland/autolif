@@ -12,7 +12,7 @@ Instructions:
 6. Your profile is now imported.
 7. Execute scripts/commands by pressing the hotkeys for corresponding features.
 
-# Changelog:
+# Changelog
 25/03/2019
 1. Project created.
 2. Script "AutoSow" created.
