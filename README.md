@@ -24,4 +24,4 @@ Automated Scripts for LiF. Library created by github.com/rydland - God Almighty 
 # Changelogs
 25/03/2019
 1. Project created.
-2. Script "AutoSow" created.
+2. Added "AutoSow_1*∞".
