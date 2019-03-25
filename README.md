@@ -1,5 +1,5 @@
 # AutoLiF v1.0
-Automated macros for LiF.
+Automated macros for LiF created by G()D.
 1. Optimised for characters with boots equipped and 10 agility. If you've got more than 10 agility on your PvE characters, you should reconsider using certain macros that require movement.
 2. Optimised for clients running at 60fps.
 3. We are using VoiceAttack to avoid having our client being flagged
