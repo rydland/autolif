@@ -19,7 +19,7 @@ Automated macro Library created by github.com/rydland - God [STEAM_0:0:7572].
 2. .bat-file to give high prio to "cm_client" for fps optimisation.
 3. AutoHarvest
 4. AutoGather
-5. AutoGather_OnlyFiber
+5. AutoGather_FiberOnly
 6. AutoHerb
 7. AutoFish
 8. AutoMinorExp
