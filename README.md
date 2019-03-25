@@ -12,7 +12,7 @@ Automated Scripts for LiF. Library created by github.com/rydland - God Almighty 
 # Hotkeys
 Esc: Cancel macro
 f1: AutoSow
-# WIP - chronologically ordered
+# WIP
 1. Add .bat-file to end task "launcher.exe" for ping optimisation.
 2. Add .bat-file to give high prio to "cm_client" for fps optimisation.
 3. Add AutoHarvest
