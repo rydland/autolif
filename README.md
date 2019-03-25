@@ -28,6 +28,8 @@ Automating gameplay is stricly forbidden and may result in a ban. You've got you
 7. AutoFish
 8. AutoMinorExp
 9. Add sensitivity presets and fps presets
+10. FastLootGrave
+11. FastLootIB
 # Changelogs
 25/03/2019
 1. Project created.
