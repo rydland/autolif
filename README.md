@@ -1,5 +1,5 @@
 # AutoLiF by God v1.0 [WIP]
-Automated Scripts for LiF. Library created by github.com/rydland / God Almighty / [STEAM_0:0:7572].
+Automated Scripts for LiF. Library created by github.com/rydland - God Almighty - [STEAM_0:0:7572].
 # Instructions
 1. Download & Install VoiceAttack: https://voiceattack.com/Default.aspx#download-1
 2. Launch VoiceAttack
