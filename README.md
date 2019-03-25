@@ -8,7 +8,7 @@ Automated macros for LiF.
 # Disclaimer
 Automating gameplay is stricly forbidden and may result in a ban. LiF Rules of Conduct reads as follows: "You may not use any third-party program (such as a “bot”) in order to automate gameplay functions, including playing, chatting, interacting, or gathering items within LiF. You may not assist, relay, or store currency or items for other players who are using these processes. However the use of simple ‘autoclickers’ is allowed for repetitive single step actions. Using an ‘autoclicker’ to automate anything beyond simple one step processes is considered botting and is forbidden".
 # Instructions
-1. Navigate to https://github.com/rydland/AutoLiF and download my macros.
+1. Navigate to https://github.com/rydland/autolif and download my macros.
 2. Download & Install VoiceAttack: https://voiceattack.com/Default.aspx#download-1
 3. Launch VoiceAttack
 4. Select the 'Import Profile' item in the profile list.
