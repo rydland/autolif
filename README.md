@@ -1,6 +1,5 @@
 # AutoLiF by God v1.0 [WIP]
-//Automated Scripts for LiF//
-//Library created by github.com/rydland aka God Almighty [STEAM_0:0:7572]//
+Automated Scripts for LiF. Library created by github.com/rydland aka God Almighty [STEAM_0:0:7572]
 # Instructions
 1. Download & Install VoiceAttack: https://voiceattack.com/Default.aspx#download-1
 2. Launch VoiceAttack
@@ -9,7 +8,7 @@
 5. Select the profile and click, 'Open'.
 6. Your profile is now imported.
 7. Execute scripts/commands by pressing the hotkeys for corresponding features.
-# Changelog
+# Changelogs
 25/03/2019
 1. Project created.
 2. Script "AutoSow" created.
