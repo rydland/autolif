@@ -5,7 +5,7 @@
 3. We are using VoiceAttack to avoid being flagged by process sniffers and anti-cheats.
 4. 1*∞ = 1 tile by infinite tiles walking pattern (straight pattern).
 5. 2*∞ = 2 tiles by infinite tiles walking pattern (zigzag pattern).
-#### Disclaimer
+### Disclaimer
 Automating gameplay is stricly forbidden and may result in a ban. LiF Rules of Conduct reads as follows: "You may not use any third-party program (such as a “bot”) in order to automate gameplay functions, including playing, chatting, interacting, or gathering items within LiF. You may not assist, relay, or store currency or items for other players who are using these processes. However the use of simple ‘autoclickers’ is allowed for repetitive single step actions. Using an ‘autoclicker’ to automate anything beyond simple one step processes is considered botting and is forbidden".
 ## Instructions
 1. Navigate to https://github.com/rydland/autolif and download my macros.
