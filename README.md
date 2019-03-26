@@ -1,6 +1,6 @@
 # AutoLiF v1.0
-### _Automated macros for LiF_ 
-##### _Created by God_
+### _*Automated macros for LiF*_ 
+##### _*Created by God*_
 * Optimised for clients running at 60 FPS.
 * Optimised for characters with 10 agility & no "Barefoot" debuff. If you've got more than 10 agility on your PvE characters, you should reconsider using macros that require movement.
   * 1*∞ = 1 tile by infinite tiles walking pattern (straight pattern).
@@ -15,7 +15,7 @@ Automating gameplay is stricly forbidden and may result in a ban. LiF Rules of C
 4. Select the 'Import Profile' item in the profile list.
 5. Browse to the .vap-file you've downloaded from my github.
 6. Select the profile and click, 'Open'.
-* Your profile with my macros is now imported.
+* _Macros are now imported and ready to be used as soon as you've selected the profile._
 ## Hotkeys & Features
 ###You can execute macros by pressing hotkeys for the corresponding features.
 1. [ESC] Cancel Macro
