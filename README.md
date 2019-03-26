@@ -1,7 +1,7 @@
 # AutoLiF v1.2
 ### _*Automated scripts for LiF*_ 
 ##### _*Created by God Almighty — [STEAM_0:0:7572](https://steamcommunity.com/id/mcbenis/) — [github/rydland](https://github.com/rydland)*_
-* Optimised for clients running at 60 FPS.
+* Optimised for clients running at 60 FPS in Windowed Borderless mode.
 * Optimised for characters with 10 agility & no "Barefoot" debuff. If you've got more than 10 agility on your PvE characters, you should reconsider using macros that require movement.
   * __1*∞__ = 1 tile by infinite tiles walking pattern (straight pattern).
   * __2*∞__ = 2 tiles by infinite tiles walking pattern (zigzag pattern).
