@@ -31,7 +31,7 @@
   * _[Shift + F1]_
     * Automatically sows seeds or harvests crops on current and the next tiles in a straight walking pattern. Requires "Sow" as your left-click option on soil tiles and "Harvest" as your left-click option on crop tiles.
 * __AutoHerb__
-  * _[Shift + F2]
+  * _[Shift + F2]_
     * Automatically looks for herbs on current tile and gathers them. Requires "Look for Herbs" as your left-click option on grass tile. Make sure you're standing in the centre of a grass tile.
 ## WIP a/o 26/03/2019
 * AutoGather
