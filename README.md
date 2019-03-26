@@ -11,12 +11,12 @@ Automating gameplay is stricly forbidden and may result in a ban. LiF Rules of C
 ## Instructions
 1. Navigate to [AutoLiF](https://github.com/rydland/autolif) and download my macros.
 2. Download & Install [VoiceAttack](https://voiceattack.com/Default.aspx#download-1).
-3. Launch VoiceAttack
+3. Launch VoiceAttack.
 4. Select the 'Import Profile' item in the profile list.
 5. Browse to the .vap-file you've downloaded from my github.
 6. Select the profile and click, 'Open'.
-7. Your profile with my macros is now imported.
-8. You can execute macros by pressing hotkeys for the corresponding features.
+ * Your profile with my macros is now imported.
+ * You can execute macros by pressing hotkeys for the corresponding features.
 ## Hotkeys & Features
 1. [ESC] Cancel Macro
 2. [Shift + F1] AutoSow
