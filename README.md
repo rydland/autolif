@@ -37,8 +37,8 @@
 * QuickLootIB
 ## Changelogs
 * _25/03/2019_
-1. Project created.
-2. Added AutoSow_1*∞.
+  1. Project created.
+  2. Added AutoSow_1*∞.
 * _25/03/2019_
-1. Added QuickTaskManager
+  1. Added QuickTaskManager
 
