@@ -1,7 +1,7 @@
 # AutoLiF v1.2
 ### _*Automated scripts for LiF*_ 
 ##### _*Created by [God Almighty](https://i.kym-cdn.com/photos/images/original/001/171/120/b2d.jpg) — [STEAM_0:0:7572](https://steamcommunity.com/id/mcbenis/) — [github/rydland](https://github.com/rydland)*_
-* Optimised for 6/11 Windows mouse sensitivity and disabled "Enhanced pointer precision" aka mouse acceleration.
+* Optimised for 6/11 Windows mouse sensitivity and disabled "enhanced pointer precision" aka mouse acceleration.
 * 10 mouse sensitivity in-game.
   * You may change your mouse DPI if the sensitivities mentioned above is too fast/slow as this will not affect the scripts.
 * Optimised for clients running at 60 FPS in "Windowed Borderless" display mode.
