@@ -27,7 +27,7 @@
 * __AutoSow 1*∞__
   * _[Shift + F1]_
     * Automatically sows seeds on current and the next soil tiles in a straight walking pattern. Requires "Sow" as your left-click option in-game.
-## WIP a/o 25/03/2019
+## WIP a/o 26/03/2019
 * AutoHarvest
 * AutoGather
   * AutoGather_FiberOnly
