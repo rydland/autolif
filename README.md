@@ -1,6 +1,6 @@
 # AutoLiF v1.0
 ### _Automated macros for LiF_ 
-####Created by God
+#### Created by God
 * Optimised for clients running at 60 FPS.
 * Optimised for characters with 10 agility & no "Barefoot" debuff. If you've got more than 10 agility on your PvE characters, you should reconsider using macros that require movement.
   * 1*∞ = 1 tile by infinite tiles walking pattern (straight pattern).
