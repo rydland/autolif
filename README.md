@@ -15,9 +15,9 @@ Automating gameplay is stricly forbidden and may result in a ban. LiF Rules of C
 4. Select the 'Import Profile' item in the profile list.
 5. Browse to the .vap-file you've downloaded from my github.
 6. Select the profile and click, 'Open'.
-* _Macros are now imported and ready to be used as soon as you've selected the profile._
+* _Macros are now imported and ready to be used as soon as you've selected the correct VoiceAttack profile._
 ## Hotkeys & Features
-###You can execute macros by pressing hotkeys for the corresponding features.
+### You can execute macros by pressing hotkeys for the corresponding features.
 1. [ESC] Cancel Macro
 2. [Shift + F1] AutoSow
 ## WIP
