@@ -16,12 +16,12 @@ Automating gameplay is stricly forbidden and may result in a ban. LiF Rules of C
 5. Browse to the .vap-file you've downloaded from my github.
 6. Select the profile and click, 'Open'.
 * _Macros are now imported and ready to be used as soon as you've selected the correct VoiceAttack profile._
-## Hotkeys & Features
+## Features & Hotkeys
 #### You can execute macros by pressing hotkeys for the corresponding features.
-* [Esc]
-  * Cancel Macro
-* [Shift + F1]
-  * AutoSow 1*∞
+* Cancel Macro
+  * [Esc]
+* AutoSow 1*∞
+  * [Shift + F1]
 ## WIP
 1. .bat-file to terminate process "launcher.exe" for ping optimisation.
 2. .bat-file to assign high prio to process "cm_client" for fps optimisation.
