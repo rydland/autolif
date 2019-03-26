@@ -23,7 +23,7 @@
 * __Boost__
   * _[Shift + F12]_
     * Boosts your FPS & Ping in LiF - (assign high/128 priority to "cm_client" & kill "launcher.exe" via PowerShell).
-* __Stop Script__
+* __Stop__
   * _[Shift + Esc]_
     * Cancel all running scripts.
 * __AutoFarm 1*∞__
