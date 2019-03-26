@@ -8,7 +8,7 @@
 * Optimised for characters with 10 agility & no "Barefoot" debuff. If you've got more than 10 agility on your PvE characters, you should reconsider using macros that require movement.
   * __1*∞__ = 1 tile by infinite tiles walking pattern (straight pattern).
   * __2*∞__ = 2 tiles by infinite tiles walking pattern (zigzag pattern).
-* We are using VoiceAttack to avoid being flagged by process sniffers as this is a totally legit tool mainly used for simulators and people with disabilities.
+* We are using VoiceAttack to avoid being flagged by process sniffers as this is a totally legit tool mainly used for simulators and users with disabilities.
 ### Disclaimer
 [AutoLiF](https://github.com/rydland/autolif) is stricly for __educational use only__. Do not use these scripts to alter your gameplay in any possible way. I, the author, do not use any scripts/macros, nor will you ever find me using them. Automating gameplay is stricly forbidden and may result in a ban. LiF's Rules of Conduct reads as follows: _"You may not use any third-party program (such as a “bot”) in order to automate gameplay functions, including playing, chatting, interacting, or gathering items within LiF. You may not assist, relay, or store currency or items for other players who are using these processes. However the use of simple ‘autoclickers’ is allowed for repetitive single step actions. Using an ‘autoclicker’ to automate anything beyond simple one step processes is considered botting and is forbidden"._
 ## Instructions
