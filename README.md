@@ -20,7 +20,7 @@
 #### You can execute scripts by pressing hotkeys for the corresponding features.
 * __Boost__
   * _[Shift + F12]_
-    * This will give a boost to your FPS and Ping - (Assign high/128 priority to "cm_client" & kill "launcher.exe").
+    * Boost your FPS & Ping in-game - (Assign high/128 priority to "cm_client" & kill "launcher.exe").
 * __Stop Script__
   * _[Esc]_
     * Cancel all running scripts.
