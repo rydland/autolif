@@ -18,9 +18,9 @@ Automating gameplay is stricly forbidden and may result in a ban. LiF Rules of C
 * _Macros are now imported and ready to be used as soon as you've selected the correct VoiceAttack profile._
 ## Features & Hotkeys
 #### You can execute macros by pressing hotkeys for the corresponding features.
-* *Stop Macro*
+* __Stop Macro__
   * [Esc]
-* *AutoSow 1*∞*
+* __AutoSow 1*∞__
   * [Shift + F1]
 ## WIP
 1. .bat-file to terminate process "launcher.exe" for ping optimisation.
