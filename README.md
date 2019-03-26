@@ -35,6 +35,6 @@ Automating gameplay is stricly forbidden and may result in a ban. LiF Rules of C
 10. QuickLootGraves
 11. QuickLootIB
 ## Changelogs
-25/03/2019
+_25/03/2019_
 1. Project created.
 2. Added AutoSow_1*∞.
