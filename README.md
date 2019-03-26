@@ -9,12 +9,12 @@
 ### Disclaimer
 [AutoLiF](https://github.com/rydland/autolif) is stricly for __educational use only__. Do not use these macros to alter your gameplay in any possible way. Automating gameplay is stricly forbidden and may result in a ban. LiF's Rules of Conduct reads as follows: _"You may not use any third-party program (such as a “bot”) in order to automate gameplay functions, including playing, chatting, interacting, or gathering items within LiF. You may not assist, relay, or store currency or items for other players who are using these processes. However the use of simple ‘autoclickers’ is allowed for repetitive single step actions. Using an ‘autoclicker’ to automate anything beyond simple one step processes is considered botting and is forbidden"._
 ## Instructions
-1. Navigate to [AutoLiF](https://github.com/rydland/autolif) and download my macros.
-2. Download & install [VoiceAttack](https://voiceattack.com/Default.aspx#download-1).
-3. Launch VoiceAttack.
-4. Select the 'Import Profile' item in the profile list.
-5. Browse & select the .vap-file (autolif-master\macro\autolif_vX.X-Profile.vap) you've downloaded from my github.
-6. Select the profile and click, 'Open'.
+__1.__ Navigate to [AutoLiF](https://github.com/rydland/autolif) and download my macros.
+__2.__ Download & install [VoiceAttack](https://voiceattack.com/Default.aspx#download-1).
+__3.__ Launch VoiceAttack.
+__4.__ Select the 'Import Profile' item in the profile list.
+__5.__ Browse & select the .vap-file (autolif-master\macro\autolif_vX.X-Profile.vap) you've downloaded from my github.
+__6.__ Select the profile and click, 'Open'.
 * _Macros are now imported and ready to be used as soon as you've selected the correct VoiceAttack profile._
 ## Features & Hotkeys
 #### You can execute macros by pressing hotkeys for the corresponding features.
