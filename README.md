@@ -1,4 +1,4 @@
-# AutoLiF v1.0
+# AutoLiF v1.0 by @rydland
 Automated macros for LiF.
 1. Optimised for characters with 10 agility & no "Barefoot" debuff. If you've got more than 10 agility on your PvE characters, you should reconsider using macros that require movement.
 2. Optimised for clients running at 60 FPS.
