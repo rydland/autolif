@@ -23,17 +23,17 @@ AutoLiF is stricly for __educational use only__. Do not use my macros to alter y
 * __AutoSow 1*∞__
   * [Shift + F1]
 ## WIP
-1. .bat-file to terminate process "launcher.exe" for ping optimisation.
-2. .bat-file to assign high prio to process "cm_client" for fps optimisation.
-3. AutoHarvest
-4. AutoGather
-5. AutoGather_FiberOnly
-6. AutoHerb
-7. AutoFish
-8. AutoMinorExp
-9. Add sensitivity, resolution & FPS presets
-10. QuickLootGraves
-11. QuickLootIB
+* .bat-file to terminate process "launcher.exe" for ping optimisation.
+* .bat-file to assign high prio to process "cm_client" for fps optimisation.
+* AutoHarvest
+* AutoGather
+  * AutoGather_FiberOnly
+* AutoHerb
+* AutoFish
+* AutoMinorExp
+* Add sensitivity, resolution & FPS presets
+* QuickLootGraves
+* QuickLootIB
 ## Changelogs
 _25/03/2019_
 1. Project created.
