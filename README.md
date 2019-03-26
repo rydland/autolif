@@ -1,4 +1,4 @@
-# AutoLiF v1.0
+# AutoLiF v1.1
 ### _*Automated macros for LiF*_ 
 ##### _*Created by God Almighty — [STEAM_0:0:7572](https://steamcommunity.com/id/mcbenis/) — [github/rydland](https://github.com/rydland)*_
 * Optimised for clients running at 60 FPS.
