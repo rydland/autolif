@@ -1,4 +1,4 @@
-# AutoLiF v1.2
+# AutoLiF v1.3
 ### _*Automated scripts for LiF*_ 
 ##### _*Created by [God Almighty](https://i.kym-cdn.com/photos/images/original/001/171/120/b2d.jpg) — [STEAM_0:0:7572](https://steamcommunity.com/id/mcbenis/) — [github/rydland](https://github.com/rydland)*_
 * Optimised for clients running at 60 FPS in "Windowed Borderless" display mode.
@@ -30,10 +30,12 @@
 * __AutoFarm 1*∞__
   * _[Shift + F1]_
     * Automatically sows seeds or harvests crops on current and the next tiles in a straight walking pattern. Requires "Sow" as your left-click option on soil tiles and "Harvest" as your left-click option on crop tiles.
+* __AutoHerb__
+  * _[Shift + F2]
+    * Automatically looks for herbs on current tile and gathers them. Requires "Look for Herbs" as your left-click option on grass tile. Make sure you're standing in the centre of a grass tile.
 ## WIP a/o 26/03/2019
 * AutoGather
   * AutoGather_FiberOnly
-* AutoHerb
 * AutoFish
 * AutoMinorExp
 * Add sensitivity, resolution & FPS presets
@@ -45,4 +47,5 @@
   2. Added AutoFarm_1*∞.
 * _26/03/2019_
   1. Added Boost
+  2. Added AutoHerb
 
