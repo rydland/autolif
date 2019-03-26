@@ -15,7 +15,7 @@
 4. Select the 'Import Profile' item in the profile list.
 5. Browse & select the .vap-file (autolif-master\scripts\autolif_vX.X-Profile.vap) you've downloaded from my github.
 6. Select the profile and click, 'Open'.
-* _scripts are now imported and ready to be used as soon as you've selected the correct VoiceAttack profile._
+* _Scripts are now imported and ready to be used as soon as you've selected the correct VoiceAttack profile._
 * _You can execute scripts by pressing hotkeys for the corresponding features._
 ## Features & Hotkeys
 * __Boost__
