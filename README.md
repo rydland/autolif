@@ -20,11 +20,13 @@
 #### You can execute macros by pressing hotkeys for the corresponding features.
 * __Stop Macro__
   * [Esc]
-    * Will cancel a
+    * Cancel all running macros.
 * __QuickTaskManager__
   * [Shift + F12]
+    * Open Windows Task Manager without launching the security option screen.
 * __AutoSow 1*∞__
   * [Shift + F1]
+    * Sow seeds on current soil tile on a straight walking pattern.
 ## WIP a/o 25/03/2019
 * Assign high prio to process "cm_client" for fps optimisation.
 * AutoHarvest
