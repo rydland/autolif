@@ -26,7 +26,7 @@
     * Cancel all running scripts.
 * __AutoSow 1*∞__
   * _[Shift + F1]_
-    * Sow seeds on current soil tile on a straight walking pattern.
+    * Sow seeds on current soil tile on a straight walking pattern. Must have "Sow" as your left-click option in-game.
 ## WIP a/o 25/03/2019
 * AutoHarvest
 * AutoGather
