@@ -15,9 +15,9 @@ Automating gameplay is stricly forbidden and may result in a ban. LiF Rules of C
 4. Select the 'Import Profile' item in the profile list.
 5. Browse to the .vap-file you've downloaded from my github.
 6. Select the profile and click, 'Open'.
- * Your profile with my macros is now imported.
- * You can execute macros by pressing hotkeys for the corresponding features.
+* Your profile with my macros is now imported.
 ## Hotkeys & Features
+###You can execute macros by pressing hotkeys for the corresponding features.
 1. [ESC] Cancel Macro
 2. [Shift + F1] AutoSow
 ## WIP
