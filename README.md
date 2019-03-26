@@ -23,7 +23,7 @@
     * Cancel all running macros.
 * __QuickTaskManager__
   * _[Shift + F12]_
-    * Open Windows Task Manager without launching "Security Options" screen.
+    * Open Windows Task Manager directly without launching "Security Options" screen.
 * __AutoSow 1*∞__
   * _[Shift + F1]_
     * Sow seeds on current soil tile on a straight walking pattern.
