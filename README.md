@@ -34,4 +34,4 @@ Automating gameplay is stricly forbidden and may result in a ban. LiF Rules of C
 # Changelogs
 25/03/2019
 1. Project created.
-2. Added "AutoSow_1*∞".
+2. Added AutoSow_1*∞.
