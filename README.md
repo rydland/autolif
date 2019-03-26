@@ -17,7 +17,7 @@ Automating gameplay is stricly forbidden and may result in a ban. LiF Rules of C
 6. Select the profile and click, 'Open'.
 * _Macros are now imported and ready to be used as soon as you've selected the correct VoiceAttack profile._
 ## Hotkeys & Features
-### You can execute macros by pressing hotkeys for the corresponding features.
+#### You can execute macros by pressing hotkeys for the corresponding features.
 1. [ESC] Cancel Macro
 2. [Shift + F1] AutoSow
 ## WIP
