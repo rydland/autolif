@@ -26,7 +26,7 @@
     * Cancel all running scripts.
 * __AutoFarm 1*∞__
   * _[Shift + F1]_
-    * Automatically sows seeds or harvests crops on current and the next soil tiles in a straight walking pattern. Requires "Sow" as your left-click option in-game.
+    * Automatically sows seeds or harvests crops on current and the next soil tiles in a straight walking pattern. Requires "Sow" as your left-click option on soil tiles & "Harvest" as your left-click option on crop tiles.
 ## WIP a/o 26/03/2019
 * AutoGather
   * AutoGather_FiberOnly
