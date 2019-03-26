@@ -3,8 +3,8 @@
 ##### _*Created by [God Almighty - STEAM_0:0:7572](https://steamcommunity.com/id/mcbenis/) - [github/rydland](https://github.com/rydland)*_
 * Optimised for clients running at 60 FPS.
 * Optimised for characters with 10 agility & no "Barefoot" debuff. If you've got more than 10 agility on your PvE characters, you should reconsider using macros that require movement.
-  * 1*∞ = 1 tile by infinite tiles walking pattern (straight pattern).
-  * 2*∞ = 2 tiles by infinite tiles walking pattern (zigzag pattern).
+  * __1*∞__ = 1 tile by infinite tiles walking pattern (straight pattern).
+  * __2*∞__ = 2 tiles by infinite tiles walking pattern (zigzag pattern).
 * We are using VoiceAttack to avoid being flagged by process sniffers and anti-cheats.
 ### Disclaimer
 AutoLiF is stricly for __educational use only__. Do not use my macros to alter your in-game gameplay in any possible way. Automating gameplay is stricly forbidden and may result in a ban. LiF's Rules of Conduct reads as follows: _"You may not use any third-party program (such as a “bot”) in order to automate gameplay functions, including playing, chatting, interacting, or gathering items within LiF. You may not assist, relay, or store currency or items for other players who are using these processes. However the use of simple ‘autoclickers’ is allowed for repetitive single step actions. Using an ‘autoclicker’ to automate anything beyond simple one step processes is considered botting and is forbidden"._
