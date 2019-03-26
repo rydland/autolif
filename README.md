@@ -29,7 +29,7 @@ Automating gameplay is stricly forbidden and may result in a ban. LiF Rules of C
 7. AutoFish
 8. AutoMinorExp
 9. Add sensitivity presets and fps presets
-10. FastLootGrave
+10. FastLootGraves
 11. FastLootIB
 # Changelogs
 25/03/2019
