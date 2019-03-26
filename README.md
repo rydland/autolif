@@ -22,7 +22,7 @@ AutoLiF is stricly for __educational use only__. Do not use my macros to alter y
   * [Esc]
 * __AutoSow 1*∞__
   * [Shift + F1]
-## WIP
+## WIP A/O 25.03.2019
 * .bat-file to terminate process "launcher.exe" for ping optimisation.
 * .bat-file to assign high prio to process "cm_client" for fps optimisation.
 * AutoHarvest
