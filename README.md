@@ -1,7 +1,7 @@
 # AutoLiF v1.0
 Automated macros for LiF.
 1. Optimised for characters without "Barefoot" debuff and 10 agility. If you've got more than 10 agility on your PvE characters, you should reconsider using macros that require movement.
-2. Optimised for clients running at 60fps.
+2. Optimised for clients running at 60 FPS.
 3. We are using VoiceAttack to avoid being flagged by process sniffers and anti-cheats.
 4. 1*∞ = 1 tile by infinite tiles walking pattern (straight pattern).
 5. 2*∞ = 2 tiles by infinite tiles walking pattern (zigzag pattern).
@@ -28,7 +28,7 @@ Automating gameplay is stricly forbidden and may result in a ban. LiF Rules of C
 6. AutoHerb
 7. AutoFish
 8. AutoMinorExp
-9. Add sensitivity presets and fps presets
+9. Add sensitivity, resolution & FPS presets
 10. QuickLootGraves
 11. QuickLootIB
 # Changelogs
