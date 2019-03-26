@@ -9,11 +9,11 @@
 ### Disclaimer
 [AutoLiF](https://github.com/rydland/autolif) is stricly for __educational use only__. Do not use these scripts to alter your gameplay in any possible way. I, the author, do not use any scripts/macros, nor will you ever find me using them. Automating gameplay is stricly forbidden and may result in a ban. LiF's Rules of Conduct reads as follows: _"You may not use any third-party program (such as a “bot”) in order to automate gameplay functions, including playing, chatting, interacting, or gathering items within LiF. You may not assist, relay, or store currency or items for other players who are using these processes. However the use of simple ‘autoclickers’ is allowed for repetitive single step actions. Using an ‘autoclicker’ to automate anything beyond simple one step processes is considered botting and is forbidden"._
 ## Instructions
-1. [Download AutoLiF scripts](https://github.com/rydland/autolif/archive/master.zip) from my GitHub.
+1. [Download AutoLiF scripts](https://github.com/rydland/autolif/archive/master.zip) from my GitHub repository.
 2. Download & install [VoiceAttack](https://voiceattack.com/Default.aspx#download-1).
 3. Launch VoiceAttack.
 4. Select the 'Import Profile' item in the profile list.
-5. Browse & select the .vap-file (autolif-master\scripts\autolif_vX.X-Profile.vap) you've downloaded from my GitHub.
+5. Browse & select the .vap-file (autolif-master\scripts\autolif_vX.X-Profile.vap) you've downloaded from my GitHub repository.
 6. Select the profile and click, 'Open'.
 * _Scripts are now imported and ready to be used as soon as you've selected the correct VoiceAttack profile._
 * _You can execute scripts by pressing hotkeys for the corresponding features._
