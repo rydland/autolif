@@ -19,9 +19,9 @@ Automating gameplay is stricly forbidden and may result in a ban. LiF Rules of C
 ## Hotkeys & Features
 #### You can execute macros by pressing hotkeys for the corresponding features.
 * [Esc]
- * Cancel Macro
+  * Cancel Macro
 * [Shift + F1]
- * AutoSow
+  * AutoSow 1*∞
 ## WIP
 1. .bat-file to terminate process "launcher.exe" for ping optimisation.
 2. .bat-file to assign high prio to process "cm_client" for fps optimisation.
