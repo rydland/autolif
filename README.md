@@ -18,12 +18,12 @@
 * _scripts are now imported and ready to be used as soon as you've selected the correct VoiceAttack profile._
 ## Features & Hotkeys
 #### You can execute scripts by pressing hotkeys for the corresponding features.
+* __Boost__
+  * _[Shift + F12]_
+    * Assign high/128 priority to "cm_client" & kill "launcher.exe". This will give a boost to your FPS and Ping.
 * __Stop Script__
   * _[Esc]_
     * Cancel all running scripts.
-* __QuickTaskManager__
-  * _[Shift + F12]_
-    * Open Windows Task Manager directly without launching "Security Options" screen.
 * __AutoSow 1*∞__
   * _[Shift + F1]_
     * Sow seeds on current soil tile on a straight walking pattern.
@@ -43,5 +43,5 @@
   1. Project created.
   2. Added AutoSow_1*∞.
 * _26/03/2019_
-  1. Added QuickTaskManager
+  1. Added Boost
 
