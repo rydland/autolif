@@ -20,6 +20,7 @@
 #### You can execute macros by pressing hotkeys for the corresponding features.
 * __Stop Macro__
   * [Esc]
+    * Will cancel a
 * __QuickTaskManager__
   * [Shift + F12]
 * __AutoSow 1*∞__
