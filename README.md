@@ -39,7 +39,7 @@
 ## Changelogs
 * _25/03/2019_
   1. Project created.
-  2. Added AutoSow_1*∞.
+  2. Added AutoFarm_1*∞.
 * _26/03/2019_
   1. Added Boost
 
