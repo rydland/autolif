@@ -20,7 +20,7 @@
 #### You can execute scripts by pressing hotkeys for the corresponding features.
 * __Boost__
   * _[Shift + F12]_
-    * Boost your FPS & Ping in-game - (assign high/128 priority to "cm_client" & kill "launcher.exe").
+    * Boost your FPS & Ping in-game - (assign high/128 priority to "cm_client" & kill "launcher.exe" via PowerShell).
 * __Stop Script__
   * _[Esc]_
     * Cancel all running scripts.
@@ -28,7 +28,6 @@
   * _[Shift + F1]_
     * Sow seeds on current soil tile on a straight walking pattern.
 ## WIP a/o 25/03/2019
-* Assign high prio to process "cm_client" for fps optimisation.
 * AutoHarvest
 * AutoGather
   * AutoGather_FiberOnly
