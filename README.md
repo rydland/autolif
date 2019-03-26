@@ -1,10 +1,10 @@
 # AutoLiF v1.2
 ### _*Automated scripts for LiF*_ 
 ##### _*Created by [God Almighty](https://i.kym-cdn.com/photos/images/original/001/171/120/b2d.jpg) — [STEAM_0:0:7572](https://steamcommunity.com/id/mcbenis/) — [github/rydland](https://github.com/rydland)*_
+* Optimised for clients running at 60 FPS in "Windowed Borderless" display mode.
 * Optimised for 6/11 Windows mouse sensitivity and disabled "enhanced pointer precision" aka mouse acceleration.
 * 10 mouse sensitivity in-game.
   * You may change your mouse DPI if the sensitivities mentioned above is too fast/slow as this will not affect the scripts.
-* Optimised for clients running at 60 FPS in "Windowed Borderless" display mode.
 * Optimised for characters with 10 agility & no "Barefoot" debuff. If you've got more than 10 agility on your PvE characters, you should reconsider using macros that require movement.
   * __1*∞__ = 1 tile by infinite tiles walking pattern (straight pattern).
   * __2*∞__ = 2 tiles by infinite tiles walking pattern (zigzag pattern).
