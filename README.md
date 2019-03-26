@@ -10,21 +10,22 @@
 [AutoLiF](https://github.com/rydland/autolif) is stricly for __educational use only__. Do not use these macros to alter your in-game gameplay in any possible way. Automating gameplay is stricly forbidden and may result in a ban. LiF's Rules of Conduct reads as follows: _"You may not use any third-party program (such as a “bot”) in order to automate gameplay functions, including playing, chatting, interacting, or gathering items within LiF. You may not assist, relay, or store currency or items for other players who are using these processes. However the use of simple ‘autoclickers’ is allowed for repetitive single step actions. Using an ‘autoclicker’ to automate anything beyond simple one step processes is considered botting and is forbidden"._
 ## Instructions
 1. Navigate to [AutoLiF](https://github.com/rydland/autolif) and download my macros.
-2. Download & Install [VoiceAttack](https://voiceattack.com/Default.aspx#download-1).
+2. Download & install [VoiceAttack](https://voiceattack.com/Default.aspx#download-1).
 3. Launch VoiceAttack.
 4. Select the 'Import Profile' item in the profile list.
-5. Browse to the .vap-file you've downloaded from my github.
+5. Browse & select the .vap-file (autolif-master.zip\macro\autolif_vX.X-Profile.vap) you've downloaded from my github.
 6. Select the profile and click, 'Open'.
 * _Macros are now imported and ready to be used as soon as you've selected the correct VoiceAttack profile._
 ## Features & Hotkeys
 #### You can execute macros by pressing hotkeys for the corresponding features.
 * __Stop Macro__
   * [Esc]
+* __QuickTaskManager__
+  * [Shift + F12]
 * __AutoSow 1*∞__
   * [Shift + F1]
 ## WIP a/o 25/03/2019
-* .bat-file to terminate process "launcher.exe" for ping optimisation.
-* .bat-file to assign high prio to process "cm_client" for fps optimisation.
+* Assign high prio to process "cm_client" for fps optimisation.
 * AutoHarvest
 * AutoGather
   * AutoGather_FiberOnly
@@ -35,6 +36,9 @@
 * QuickLootGraves
 * QuickLootIB
 ## Changelogs
-_25/03/2019_
+* _25/03/2019_
 1. Project created.
 2. Added AutoSow_1*∞.
+* _25/03/2019_
+1. Added QuickTaskManager
+
