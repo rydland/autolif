@@ -17,12 +17,12 @@ Do not use these scripts to alter your gameplay in any way, shape or form. I, th
 2. Download & install [VoiceAttack](https://voiceattack.com/Default.aspx#download-1).
 3. Launch VoiceAttack.
 4. Select the 'Import Profile' item in the profile list.
-5. Browse & select the .vap-file (autolif-master\scripts\autolif_v✗.✗-Profile.vap) you've downloaded from my GitHub.
+5. Browse & select the .vap-file (autolif-master\autolif_v✗.✗-Profile.vap) you've downloaded from my GitHub.
 6. Select the profile and click, 'Open'.
 * _Scripts are now imported and ready to be used as soon as you've selected the correct VoiceAttack profile._
 * _You can execute scripts by pressing hotkeys for the corresponding features._
-#### How to remove fog weather effect
-#### How to run two instances of LiF
+#### [How to remove fog weather effect]()
+#### [How to run two instances of LiF]()
 ## Features & Hotkeys
 * __Boost__
   * _[Shift + F12]_
