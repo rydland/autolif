@@ -1,5 +1,5 @@
 # Run multiple instances of LiF - Multiboxing
-Useful during PvP to scout home base while you're out raiding or for a rendezvous point to heal your other characters.
+__Useful during PvP to scout home base while you're out raiding or for a rendezvous point to heal your other characters.__
 ## Instructions
 1. [Download AutoLiF](https://github.com/rydland/autolif/archive/master.zip) from my GitHub repository.
 2. Install SandboxieInstall.exe (autolif-master\SandboxieInstall.exe).
