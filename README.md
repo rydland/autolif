@@ -5,7 +5,7 @@
 * Optimised for __6__/11 Windows mouse sensitivity and disabled "enhanced pointer precision" aka mouse acceleration.
 * __10__/100 mouse sensitivity in-game.
   * You may want to modify your mouse DPI if the aforementioned sensitivities are too fast/slow for you. Mouse DPI is usually based on hardware and not within Windows, so changing it will not affect the performance of scripts.
-* Optimised for characters with 10 agility & no "Barefoot" debuff. If you've got more than 10 agility on your PvE characters, you should reconsider using macros that require movement.
+* Optimised for characters with 10 agility, without "Barefoot" debuff. If you've got more than 10 agility on your PvE characters, you should reconsider using macros that require movement.
   * __1*∞__ = 1 tile by infinite tiles walking pattern (straight pattern).
   * __2*∞__ = 2 tiles by infinite tiles walking pattern (zigzag pattern).
 * We're using VoiceAttack to avoid being flagged by process sniffers as this is a totally legit tool mainly used for simulators and users with disabilities like myself considering I'm releasing scripts without any monetary gain.
