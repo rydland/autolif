@@ -37,6 +37,7 @@ Do not use these scripts to alter your gameplay in any way, shape or form. I, th
 ## WIP a/o 26/03/2019
 * AutoGather
   * AutoGather_FiberOnly
+* AutoPlant
 * AutoFish
 * AutoMinorExp
 * Add sensitivity, resolution & FPS presets
