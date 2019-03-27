@@ -62,4 +62,5 @@ Do not use these scripts to alter your gameplay in any way, shape or form. I, th
   2. Added AutoHerb
 * _26/03/2019_
   1. Added multibox
+  2. Added reticle_overlay
 
