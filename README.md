@@ -43,6 +43,10 @@ Do not use these scripts to alter your gameplay in any way, shape or form. I, th
 * Add sensitivity, resolution & FPS presets
 * QuickLootGraves
 * QuickLootIB
+* PvP combos
+* Backswing-Stamina abuse
+* Swordsman special attack abuse
+* Freelook w/ camera reset upon button release
 ## Changelogs
 * _25/03/2019_
   1. Project created.
