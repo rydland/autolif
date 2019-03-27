@@ -21,8 +21,8 @@ Do not use these scripts to alter your gameplay in any way, shape or form. I, th
 6. Select the profile and click, 'Open'.
 * _Scripts are now imported and ready to be used as soon as you've selected the correct VoiceAttack profile._
 * _You can execute scripts by pressing hotkeys for the corresponding features._
-#### [How to remove fog weather effect](https://github.com/rydland/autolif/tree/master/remove_fog)
-#### [How to run two instances of LiF]()
+#### [How to remove fog weather effect in-game](https://github.com/rydland/autolif/tree/master/remove_fog)
+#### [How to run two instances of LiF (multiboxing)]()
 ## Features & Hotkeys
 * __Boost__
   * _[Shift + F12]_
