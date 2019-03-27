@@ -27,7 +27,7 @@ Do not use these scripts to alter your gameplay in any way, shape or form. I, th
     * Boosts your FPS & Ping in LiF - assigns high/128 priority to "cm_client" & kills "launcher.exe" via PowerShell. We are using high/128 priority instead of realtime/256 priority due to it's high chance of causing pixel skipping and problems with alt-tabbing as the rest of your system will not recieve enough resource power during high load. Terminating the LiF launcher is also beneficial because it's forced P2P-connection will bottleneck your bandwidth. This script will do all of this for you once executed after launching LiF.
 * __Stop__
   * _[Shift + Esc]_
-    * Cancel all running scripts.
+    * Cancels all running scripts.
 * __AutoFarm 1*∞__
   * _[Shift + F1]_
     * Automatically sows seeds or harvests crops on current and the next tiles in a straight walking pattern. Requires "Sow" as your left-click option on soil tiles and "Harvest" as your left-click option on crop tiles.
