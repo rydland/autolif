@@ -22,7 +22,7 @@ Do not use these scripts to alter your gameplay in any way, shape or form. I, th
 * _Scripts are now imported and ready to be used as soon as you've selected the correct VoiceAttack profile._
 * _You can execute scripts by pressing hotkeys for the corresponding features._
 #### [How to remove fog weather effect in-game](https://github.com/rydland/autolif/tree/master/remove_fog)
-#### [How to run two instances of LiF (multiboxing)]()
+#### [How to run two instances of LiF (multiboxing)](https://github.com/rydland/autolif/tree/master/multibox)
 ## Features & Hotkeys
 * __Boost__
   * _[Shift + F12]_
