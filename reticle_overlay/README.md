@@ -5,3 +5,11 @@ Useful if you're doing PvE with a larger display resolution as the current retic
 2. Run PlayclawInstaller.bat (autolif-master\reticle_overlay\PlayclawInstaller.bat).
 3. You'll be prompted to download PlayclawInstaller.exe, click yes.
 4. Run and install PlayclawInstaller.exe.
+5. Launch PlayClaw.
+6. Click "Settings" ➜ "Software options".
+7. Change "Draw grid with size" value to 1 and turn it on.
+8. Close "General settings" window.
+9. Click "Scene item" ➜ "Add overlay" ➜ "Image".
+10. Select a preferred reticle from the "images" folder (autolif-master\reticle_overlay\images).
+11. Place the overlay image/reticle in the middle of the canvas.
+*  Remember to select "Game" as the Cature Mode in PlayClaw.
