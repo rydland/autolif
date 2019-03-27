@@ -25,6 +25,8 @@ Do not use these scripts to alter your gameplay in any way, shape or form. I, th
   * Useful during PvP, especially if you wish to scout or snipe enemies with a crossbow.
 #### [How to run multiple instances of LiF (multiboxing)](https://github.com/rydland/autolif/tree/master/multibox)
   * Useful during PvP to scout home base while you're out raiding or for a rendezvous point to heal your other characters.
+#### [How to add reticles & crosshairs](https://github.com/rydland/autolif/tree/master/multibox)
+  * Useful if you're playing with a larger display resolution as the current reticle in LiF is too small to be properly seen. However, having a reticle during pvp will prove the opposite as you'll want to turn your attention to your enemy, not your reticle.
 ## Features & Hotkeys
 * __Boost__
   * _[Shift + F12]_
