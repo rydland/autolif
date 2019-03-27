@@ -1,6 +1,6 @@
 # AutoLiF  v1.3
 ### _*Automated scripts for LiF*_ 
-##### _*Created by [God Almighty](https://i.kym-cdn.com/photos/images/original/001/171/120/b2d.jpg) — [STEAM_0:0:7572](https://steamcommunity.com/id/mcbenis/) — [github/rydland](https://github.com/rydland)*_
+##### _*Created by [Almighty](https://i.kym-cdn.com/photos/images/original/001/171/120/b2d.jpg) — [STEAM_0:0:7572](https://steamcommunity.com/id/mcbenis/) — [github/rydland](https://github.com/rydland)*_
 * Optimised for clients running at 60 FPS in "Windowed Borderless" display mode.
 * Optimised for __6__/11 Windows mouse sensitivity and disabled "enhanced pointer precision" (mouse acceleration).
 * __10__/100 mouse sensitivity in-game.
