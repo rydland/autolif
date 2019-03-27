@@ -43,7 +43,7 @@ Do not use these scripts to alter your gameplay in any way, shape or form. I, th
 * Sensitivity-, resolution- & FPS presets
 * QuickLootGraves
 * QuickLootIB
-* PvP combos
+* PvP combo w/ animation cancels & hold last hit until button release
 * Backswing-Stamina abuse
 * Swordsman special attack abuse
 * Freelook w/ camera reset upon button release
