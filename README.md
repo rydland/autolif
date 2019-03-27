@@ -4,7 +4,7 @@
 * Optimised for clients running at 60 FPS in "Windowed Borderless" display mode.
 * Optimised for 6/11 Windows mouse sensitivity and disabled "enhanced pointer precision" aka mouse acceleration.
 * 10 mouse sensitivity in-game.
-  * You may want to modify your mouse DPI if the sensitivities mentioned above is too fast/slow. Mouse DPI is usually based on hardware and not within Windows, so changing it will not affect the performance of scripts.
+  * You may want to modify your mouse DPI if the sensitivities mentioned above is too fast/slow for you. Mouse DPI is usually based on hardware and not within Windows, so changing it will not affect the performance of scripts.
 * Optimised for characters with 10 agility & no "Barefoot" debuff. If you've got more than 10 agility on your PvE characters, you should reconsider using macros that require movement.
   * __1*∞__ = 1 tile by infinite tiles walking pattern (straight pattern).
   * __2*∞__ = 2 tiles by infinite tiles walking pattern (zigzag pattern).
