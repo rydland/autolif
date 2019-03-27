@@ -56,4 +56,6 @@ Do not use these scripts to alter your gameplay in any way, shape or form. I, th
 * _26/03/2019_
   1. Added Boost
   2. Added AutoHerb
+* _26/03/2019_
+  1. Added multibox
 
