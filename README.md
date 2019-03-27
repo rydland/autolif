@@ -40,7 +40,7 @@ Do not use these scripts to alter your gameplay in any way, shape or form. I, th
 * AutoPlant
 * AutoFish
 * AutoMinorExp
-* Add sensitivity, resolution & FPS presets
+* Sensitivity-, resolution- & FPS presets
 * QuickLootGraves
 * QuickLootIB
 * PvP combos
