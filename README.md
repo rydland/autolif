@@ -24,7 +24,7 @@ Do not use these scripts to alter your gameplay in any way, shape or form. I, th
 ## Features & Hotkeys
 * __Boost__
   * _[Shift + F12]_
-    * Boosts your FPS & Ping in LiF - (assign high/128 priority to "cm_client" & kill "launcher.exe" via PowerShell).
+    * Boosts your FPS & Ping in LiF - assigns high/128 priority to "cm_client" & kills "launcher.exe" via PowerShell). We are using high/128 priority instead of realtime/256 priority due to it's high chance of causing pixel skipping and problems with alt-tabbing because the rest of your system will not recieve enough resource power during high load. Terminating the LiF launcher is also beneficial because it's forced P2P-connection will bottleneck your bandwidth. This script will do all of this for you once executed after launching LiF.
 * __Stop__
   * _[Shift + Esc]_
     * Cancel all running scripts.
