@@ -2,7 +2,7 @@
 ### _*Automated scripts for LiF*_ 
 ##### _*Created by [God Almighty](https://i.kym-cdn.com/photos/images/original/001/171/120/b2d.jpg) — [STEAM_0:0:7572](https://steamcommunity.com/id/mcbenis/) — [github/rydland](https://github.com/rydland)*_
 * Optimised for clients running at 60 FPS in "Windowed Borderless" display mode.
-* Optimised for __6__/11 Windows mouse sensitivity and disabled "enhanced pointer precision" aka mouse acceleration.
+* Optimised for __6__/11 Windows mouse sensitivity and disabled "enhanced pointer precision" (mouse acceleration).
 * __10__/100 mouse sensitivity in-game.
   * You may want to modify your mouse DPI if the aforementioned sensitivities are too fast/slow for you. Mouse DPI is usually based on hardware and not within Windows, so changing it will not affect the performance of scripts.
 * Optimised for characters with 10 agility, without "Barefoot" debuff. If you've got more than 10 agility on your PvE characters, you should reconsider using macros that require movement.
