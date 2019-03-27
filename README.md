@@ -1,4 +1,4 @@
-# AutoLiF v1.3
+# AutoLiF©  v1.3
 ### _*Automated scripts for LiF*_ 
 ##### _*Created by [God Almighty](https://i.kym-cdn.com/photos/images/original/001/171/120/b2d.jpg) — [STEAM_0:0:7572](https://steamcommunity.com/id/mcbenis/) — [github/rydland](https://github.com/rydland)*_
 * Optimised for clients running at 60 FPS in "Windowed Borderless" display mode.
@@ -10,7 +10,7 @@
   * __2*∞__ = 2 tiles by infinite tiles walking pattern (zigzag pattern).
 * We're using VoiceAttack to avoid being flagged by process sniffers as this is a totally legit tool mainly used for simulators and users with disabilities like myself considering I'm releasing scripts without any monetary gain.
 ### Disclaimer
-[AutoLiF](https://github.com/rydland/autolif) is stricly for __educational use only__ — standard copyrights still apply.
+[AutoLiF](https://github.com/rydland/autolif) is stricly for __educational use only__ — standard copyrights© still apply.
 Do not use these scripts to alter your gameplay in any way, shape or form. I, the author, do not use any scripts/macros, nor will you ever find me using them. Automating gameplay is stricly forbidden and may result in a game ban. LiF's Rules of Conduct reads as follows: _"You may not use any third-party program (such as a “bot”) in order to automate gameplay functions, including playing, chatting, interacting, or gathering items within LiF. You may not assist, relay, or store currency or items for other players who are using these processes. However the use of simple ‘autoclickers’ is allowed for repetitive single step actions. Using an ‘autoclicker’ to automate anything beyond simple one step processes is considered botting and is forbidden"._
 ## Instructions
 1. [Download AutoLiF scripts](https://github.com/rydland/autolif/archive/master.zip) from my GitHub repository.
