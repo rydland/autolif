@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Profile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <HasMB>false</HasMB>
-  <Id>57737bfa-9adc-4aed-98b9-8eb2ba6653a6</Id>
+  <Id>c5fb0d89-2f8d-4d12-9706-af0b8a29f2b7</Id>
   <Name>AutoLiF_v1.3</Name>
   <Commands>
     <Command>
@@ -19,11 +19,11 @@
       <IsOverride>false</IsOverride>
       <BaseId>abcd9038-001e-4612-846f-9278a0559951</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
-      <Id>a3ecdad4-e990-4ea8-bf0b-15ef3d822991</Id>
+      <Id>5c03d42b-ef84-4fc4-9882-a8d3410a1a61</Id>
       <CommandString>AutoFarm1*∞</CommandString>
       <ActionSequence>
         <CommandAction>
-          <_caption>Created by God Almighty — STEAM_0:0:7572 — github/rydland</_caption>
+          <_caption>Created by Almighty — STEAM_0:0:7572 — github/rydland</_caption>
           <PairingSet>false</PairingSet>
           <PairingSetElse>false</PairingSetElse>
           <Ordinal>0</Ordinal>
@@ -32,13 +32,13 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Caption>Created by God Almighty — STEAM_0:0:7572 — github/rydland</Caption>
-          <Id>29d63e6a-1930-4252-936b-49f04fe0dca4</Id>
+          <Caption>Created by Almighty — STEAM_0:0:7572 — github/rydland</Caption>
+          <Id>e5259813-cb1d-434b-bc25-3897a1f442fd</Id>
           <ActionType>Comment</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>Created by God Almighty — STEAM_0:0:7572 — github/rydland</Context>
+          <Context>Created by Almighty — STEAM_0:0:7572 — github/rydland</Context>
           <X>0</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -67,7 +67,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Move mouse down [8196] relative mickey(s) (from cursor position)</Caption>
-          <Id>a55b7812-529d-4cd9-9a34-f5d7a84f6767</Id>
+          <Id>8e99e5ec-4cc6-4a62-9b9a-3c38fbff9c2f</Id>
           <ActionType>MouseAction</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -102,7 +102,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Marker: start</Caption>
-          <Id>2d7515a6-f76e-4f0a-8f13-99052457292a</Id>
+          <Id>0dfcfe9d-51fb-4d15-8745-911cab7eb429</Id>
           <ActionType>Marker</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -136,7 +136,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Click left mouse button</Caption>
-          <Id>5a04d3c1-3ffe-44a1-a2b3-3588d886d7f3</Id>
+          <Id>9e734971-af74-4c24-9fa1-a32427659cf0</Id>
           <ActionType>MouseAction</ActionType>
           <Duration>0</Duration>
           <Delay>0.016</Delay>
@@ -170,7 +170,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Pause 9.128 seconds</Caption>
-          <Id>99f71662-e845-4586-a5a6-eab0b850c52a</Id>
+          <Id>f7e8fad2-d2d6-44d4-970f-1e5182f648d5</Id>
           <ActionType>Pause</ActionType>
           <Duration>9.128</Duration>
           <Delay>0</Delay>
@@ -203,7 +203,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Press down Left Shift key</Caption>
-          <Id>d91f30dc-cfb7-4495-a61a-42732a18daa0</Id>
+          <Id>f197d7b9-ab77-49ec-80fc-1228da6c8a36</Id>
           <ActionType>KeyDown</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -239,7 +239,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Press W key and hold for 0.596 seconds and release</Caption>
-          <Id>b0437ddc-6b58-463d-a738-f03c50316bc0</Id>
+          <Id>00b3165c-f418-4f77-80cf-b5721bab834d</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.596</Duration>
           <Delay>0</Delay>
@@ -275,7 +275,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Release Left Shift key</Caption>
-          <Id>631842bd-0c09-45f8-b401-12ff726e59fc</Id>
+          <Id>a05f8595-686e-4438-9230-7fea344076b8</Id>
           <ActionType>KeyUp</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -311,7 +311,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Pause 0.128 seconds</Caption>
-          <Id>605854e6-a46c-497b-93a1-53a8c8f454c8</Id>
+          <Id>ab2b6e87-2570-4b4b-b8c5-dae32bf8ceb0</Id>
           <ActionType>Pause</ActionType>
           <Duration>0.128</Duration>
           <Delay>0</Delay>
@@ -344,7 +344,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Jump to Marker: start</Caption>
-          <Id>5819710a-df37-401a-bbd4-b2aa0ef3cb84</Id>
+          <Id>18d3d9f7-4f70-43d2-a737-c039ac7f612c</Id>
           <ActionType>Jump</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -394,11 +394,11 @@
       <joystickButton2>0</joystickButton2>
       <joystickUp>false</joystickUp>
       <KeepRepeating>false</KeepRepeating>
-      <UseProcessOverride>true</UseProcessOverride>
+      <UseProcessOverride>false</UseProcessOverride>
       <ProcessOverride>Life is Feudal: MMO @ Godenland (Standard ruleset World)</ProcessOverride>
       <ProcessOverrideActiveWindow>false</ProcessOverrideActiveWindow>
-      <LostFocusStop>true</LostFocusStop>
-      <PauseLostFocus>true</PauseLostFocus>
+      <LostFocusStop>false</LostFocusStop>
+      <PauseLostFocus>false</PauseLostFocus>
       <LostFocusBackCompat>true</LostFocusBackCompat>
       <UseMouse>false</UseMouse>
       <Mouse1>false</Mouse1>
@@ -437,13 +437,13 @@
       <ExecFromWildcard>false</ExecFromWildcard>
       <IsSubCommand>false</IsSubCommand>
       <IsOverride>false</IsOverride>
-      <BaseId>b2c88766-0bda-48ac-b77f-d1a0dac6f2f6</BaseId>
+      <BaseId>c7229ec6-aa17-44fd-977d-5e40c54ae187</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
-      <Id>845c94cf-65ec-467e-9ce9-7699f3046094</Id>
-      <CommandString>AutoHerb</CommandString>
+      <Id>041a91ed-c7bb-4972-a452-a7a8a1d8fc15</Id>
+      <CommandString>AutoGather</CommandString>
       <ActionSequence>
         <CommandAction>
-          <_caption>Created by God Almighty — STEAM_0:0:7572 — github/rydland</_caption>
+          <_caption>Created by Almighty — STEAM_0:0:7572 — github/rydland</_caption>
           <PairingSet>false</PairingSet>
           <PairingSetElse>false</PairingSetElse>
           <Ordinal>0</Ordinal>
@@ -452,13 +452,13 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Caption>Created by God Almighty — STEAM_0:0:7572 — github/rydland</Caption>
-          <Id>295dd290-36c7-4f2f-aa90-e8d6c1a39291</Id>
+          <Caption>Created by Almighty — STEAM_0:0:7572 — github/rydland</Caption>
+          <Id>f02eb7a8-10c1-4ee6-8562-9967e838ddde</Id>
           <ActionType>Comment</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>Created by God Almighty — STEAM_0:0:7572 — github/rydland</Context>
+          <Context>Created by Almighty — STEAM_0:0:7572 — github/rydland</Context>
           <X>0</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -487,7 +487,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Marker: RESET</Caption>
-          <Id>7f5581bf-4c4b-457e-935f-c2268113f4e3</Id>
+          <Id>b6b7a016-a1c7-4c90-bccf-7d92fc25fadf</Id>
           <ActionType>Marker</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -521,7 +521,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Move mouse down [8196] relative mickey(s) (from cursor position)</Caption>
-          <Id>0bacc1ec-72e1-4ec0-8a70-94aece3c4534</Id>
+          <Id>a17d2fa1-adcb-45e3-9261-b152d7d54595</Id>
           <ActionType>MouseAction</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -556,7 +556,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Pause 0.128 seconds</Caption>
-          <Id>f6180264-ca9d-4180-8caf-3fc4c1741d37</Id>
+          <Id>bc7fefbd-5593-4c6b-8567-e831db4f1929</Id>
           <ActionType>Pause</ActionType>
           <Duration>0.128</Duration>
           <Delay>0</Delay>
@@ -589,7 +589,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Click left mouse button</Caption>
-          <Id>928f2289-e0ab-426a-9129-62fb0af8aac9</Id>
+          <Id>67f4a5b4-fa89-4e3d-9a79-31035341bf15</Id>
           <ActionType>MouseAction</ActionType>
           <Duration>0</Duration>
           <Delay>0.016</Delay>
@@ -613,7 +613,7 @@
           <RandomSounds />
         </CommandAction>
         <CommandAction>
-          <_caption>Pause 8.128 seconds</_caption>
+          <_caption>Pause 10.128 seconds</_caption>
           <PairingSet>false</PairingSet>
           <PairingSetElse>false</PairingSetElse>
           <Ordinal>5</Ordinal>
@@ -622,10 +622,10 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Caption>Pause 8.128 seconds</Caption>
-          <Id>17b65226-dd6b-4e69-ad90-ff58579d0dd4</Id>
+          <Caption>Pause 10.128 seconds</Caption>
+          <Id>5762c1b3-d7b8-45fb-838a-e8edd3f7d365</Id>
           <ActionType>Pause</ActionType>
-          <Duration>8.128</Duration>
+          <Duration>10.128</Duration>
           <Delay>0</Delay>
           <KeyCodes />
           <X>0</X>
@@ -646,7 +646,7 @@
           <RandomSounds />
         </CommandAction>
         <CommandAction>
-          <_caption>Move mouse up [732] relative mickey(s) (from cursor position)</_caption>
+          <_caption>Move mouse up [670] relative mickey(s) (from cursor position)</_caption>
           <PairingSet>false</PairingSet>
           <PairingSetElse>false</PairingSetElse>
           <Ordinal>6</Ordinal>
@@ -655,8 +655,8 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Caption>Move mouse up [732] relative mickey(s) (from cursor position)</Caption>
-          <Id>1a0d228e-3339-4c27-b03a-9aade1fe9e57</Id>
+          <Caption>Move mouse up [670] relative mickey(s) (from cursor position)</Caption>
+          <Id>9e416c14-6a4a-41c6-b6bc-658e3a2828ac</Id>
           <ActionType>MouseAction</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -669,14 +669,14 @@
           <ConditionSetName xml:space="preserve">1000</ConditionSetName>
           <ConditionPairing>0</ConditionPairing>
           <ConditionGroup>0</ConditionGroup>
-          <ConditionStartNameFrom>732</ConditionStartNameFrom>
-          <ConditionStartOperator>0</ConditionStartOperator>
-          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartNameFrom>670</ConditionStartNameFrom>
+          <ConditionStartOperator>1</ConditionStartOperator>
+          <ConditionStartValue>128</ConditionStartValue>
           <ConditionStartValueType>0</ConditionStartValueType>
           <ConditionStartCompareToCondtion>2300</ConditionStartCompareToCondtion>
-          <ConditionStartType>0</ConditionStartType>
+          <ConditionStartType>1</ConditionStartType>
           <DecimalContext1>0</DecimalContext1>
-          <DecimalContext2>0</DecimalContext2>
+          <DecimalContext2>1.024</DecimalContext2>
           <DateContext1>0001-01-01T00:00:00</DateContext1>
           <DateContext2>0001-01-01T00:00:00</DateContext2>
           <Disabled>false</Disabled>
@@ -693,7 +693,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Pause 0.128 seconds</Caption>
-          <Id>1862c657-d995-4e5a-9d60-6bfee93526bf</Id>
+          <Id>5b2ce74f-f6f1-4373-8dfe-588a174cf294</Id>
           <ActionType>Pause</ActionType>
           <Duration>0.128</Duration>
           <Delay>0</Delay>
@@ -726,7 +726,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Start Loop : Repeat 256 Times</Caption>
-          <Id>1593770a-9c21-440c-9fd8-a18570b78afa</Id>
+          <Id>4be2dff8-a25c-4b03-a5cc-1fc3163147f6</Id>
           <ActionType>WhileStart</ActionType>
           <Duration>0</Duration>
           <Delay>1</Delay>
@@ -760,7 +760,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>    Click left mouse button</Caption>
-          <Id>f9f0efb8-1567-42cd-ae05-c831870ebd2a</Id>
+          <Id>f5b48a38-14e1-4f00-b47e-761d8c09402d</Id>
           <ActionType>MouseAction</ActionType>
           <Duration>0</Duration>
           <Delay>0.016</Delay>
@@ -794,7 +794,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>    Pause 0.016 seconds</Caption>
-          <Id>5344a436-cc6a-461e-bd44-25898b8e55b2</Id>
+          <Id>702717f2-1f3c-4ede-88f5-db46110ccc12</Id>
           <ActionType>Pause</ActionType>
           <Duration>0.016</Duration>
           <Delay>0</Delay>
@@ -817,7 +817,7 @@
           <RandomSounds />
         </CommandAction>
         <CommandAction>
-          <_caption>    Move mouse left [32] relative mickey(s) (from cursor position)</_caption>
+          <_caption>    Move mouse left [28] relative mickey(s) (from cursor position)</_caption>
           <PairingSet>false</PairingSet>
           <PairingSetElse>false</PairingSetElse>
           <Ordinal>11</Ordinal>
@@ -826,8 +826,8 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Caption>    Move mouse left [32] relative mickey(s) (from cursor position)</Caption>
-          <Id>49a3b2a9-396c-4159-98b5-41c69c4b0eb1</Id>
+          <Caption>    Move mouse left [28] relative mickey(s) (from cursor position)</Caption>
+          <Id>aec61c63-c7d7-4c6c-9abc-712db9ffcf03</Id>
           <ActionType>MouseAction</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -837,7 +837,7 @@
           <Y>0</Y>
           <Z>0</Z>
           <InputMode>1</InputMode>
-          <ConditionSetName xml:space="preserve">32</ConditionSetName>
+          <ConditionSetName xml:space="preserve">28</ConditionSetName>
           <ConditionPairing>0</ConditionPairing>
           <ConditionGroup>0</ConditionGroup>
           <ConditionStartNameFrom>1000</ConditionStartNameFrom>
@@ -864,7 +864,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>End Loop</Caption>
-          <Id>2afd4960-3d7d-4290-b57e-b392e8169570</Id>
+          <Id>8d5ffcba-05e4-4d71-b789-8d3af6186c7e</Id>
           <ActionType>WhileEnd</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -887,7 +887,7 @@
           <RandomSounds />
         </CommandAction>
         <CommandAction>
-          <_caption>Pause 4.128 seconds</_caption>
+          <_caption>Pause 4.512 seconds</_caption>
           <PairingSet>false</PairingSet>
           <PairingSetElse>false</PairingSetElse>
           <Ordinal>13</Ordinal>
@@ -896,10 +896,10 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Caption>Pause 4.128 seconds</Caption>
-          <Id>dbcfe6ba-c59c-4f95-a541-f851ba8bd765</Id>
+          <Caption>Pause 4.512 seconds</Caption>
+          <Id>d9606e5f-c8f4-4286-8518-11f6c021efd0</Id>
           <ActionType>Pause</ActionType>
-          <Duration>4.128</Duration>
+          <Duration>4.512</Duration>
           <Delay>0</Delay>
           <KeyCodes />
           <X>0</X>
@@ -930,7 +930,593 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Jump to Marker: RESET</Caption>
-          <Id>51c1c0ea-ac06-477d-9c30-491ed32b3745</Id>
+          <Id>8de7faa3-fb8d-456d-846a-d4d4bbd8495c</Id>
+          <ActionType>Jump</ActionType>
+          <Duration>0</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <Context>RESET</Context>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <InputMode>0</InputMode>
+          <ConditionPairing>1</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <ConditionStartType>0</ConditionStartType>
+          <DecimalContext1>0</DecimalContext1>
+          <DecimalContext2>0</DecimalContext2>
+          <DateContext1>0001-01-01T00:00:00</DateContext1>
+          <DateContext2>0001-01-01T00:00:00</DateContext2>
+          <Disabled>false</Disabled>
+          <RandomSounds />
+        </CommandAction>
+      </ActionSequence>
+      <Async>true</Async>
+      <Enabled>true</Enabled>
+      <Description>Gather herbs</Description>
+      <Category>Gathering</Category>
+      <UseShortcut>true</UseShortcut>
+      <keyValue>114</keyValue>
+      <keyShift>160</keyShift>
+      <keyAlt>0</keyAlt>
+      <keyCtrl>0</keyCtrl>
+      <keyWin>0</keyWin>
+      <keyPassthru>true</keyPassthru>
+      <UseSpokenPhrase>false</UseSpokenPhrase>
+      <onlyKeyUp>true</onlyKeyUp>
+      <RepeatNumber>2</RepeatNumber>
+      <RepeatType>0</RepeatType>
+      <CommandType>0</CommandType>
+      <SourceProfile>00000000-0000-0000-0000-000000000000</SourceProfile>
+      <UseConfidence>false</UseConfidence>
+      <minimumConfidenceLevel>0</minimumConfidenceLevel>
+      <UseJoystick>false</UseJoystick>
+      <joystickNumber>0</joystickNumber>
+      <joystickButton>0</joystickButton>
+      <joystickNumber2>0</joystickNumber2>
+      <joystickButton2>0</joystickButton2>
+      <joystickUp>false</joystickUp>
+      <KeepRepeating>false</KeepRepeating>
+      <UseProcessOverride>false</UseProcessOverride>
+      <ProcessOverride>Life is Feudal: MMO @ Godenland (Standard ruleset World)</ProcessOverride>
+      <ProcessOverrideActiveWindow>false</ProcessOverrideActiveWindow>
+      <LostFocusStop>false</LostFocusStop>
+      <PauseLostFocus>false</PauseLostFocus>
+      <LostFocusBackCompat>true</LostFocusBackCompat>
+      <UseMouse>false</UseMouse>
+      <Mouse1>false</Mouse1>
+      <Mouse2>false</Mouse2>
+      <Mouse3>false</Mouse3>
+      <Mouse4>false</Mouse4>
+      <Mouse5>false</Mouse5>
+      <Mouse6>false</Mouse6>
+      <Mouse7>false</Mouse7>
+      <Mouse8>false</Mouse8>
+      <Mouse9>false</Mouse9>
+      <MouseUpOnly>false</MouseUpOnly>
+      <MousePassThru>true</MousePassThru>
+      <joystickExclusive>false</joystickExclusive>
+      <lastEditedAction>aabd83b6-8613-41b8-853b-dee0eab7333f</lastEditedAction>
+      <UseProfileProcessOverride>false</UseProfileProcessOverride>
+      <ProfileProcessOverrideActiveWindow>false</ProfileProcessOverrideActiveWindow>
+      <RepeatIfKeysDown>false</RepeatIfKeysDown>
+      <RepeatIfMouseDown>false</RepeatIfMouseDown>
+      <RepeatIfJoystickDown>false</RepeatIfJoystickDown>
+      <AH>0</AH>
+      <CL>0</CL>
+      <HasMB>false</HasMB>
+      <UseVariableHotkey>false</UseVariableHotkey>
+    </Command>
+    <Command>
+      <Referrer xsi:nil="true" />
+      <ExecType>3</ExecType>
+      <Confidence>0</Confidence>
+      <PrefixActionCount>0</PrefixActionCount>
+      <IsDynamicallyCreated>false</IsDynamicallyCreated>
+      <TargetProcessSet>false</TargetProcessSet>
+      <TargetProcessType>0</TargetProcessType>
+      <TargetProcessLevel>0</TargetProcessLevel>
+      <CompareType>0</CompareType>
+      <ExecFromWildcard>false</ExecFromWildcard>
+      <IsSubCommand>false</IsSubCommand>
+      <IsOverride>false</IsOverride>
+      <BaseId>b2c88766-0bda-48ac-b77f-d1a0dac6f2f6</BaseId>
+      <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
+      <Id>24bbdba7-ec31-4e16-91a3-90f2778e40dc</Id>
+      <CommandString>AutoHerb</CommandString>
+      <ActionSequence>
+        <CommandAction>
+          <_caption>Created by Almighty — STEAM_0:0:7572 — github/rydland</_caption>
+          <PairingSet>false</PairingSet>
+          <PairingSetElse>false</PairingSetElse>
+          <Ordinal>0</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <ConditionSkip>false</ConditionSkip>
+          <IsSuffixAction>false</IsSuffixAction>
+          <DecimalTransient1>0</DecimalTransient1>
+          <Caption>Created by Almighty — STEAM_0:0:7572 — github/rydland</Caption>
+          <Id>4ba0c07c-73c2-479a-9352-70a37eac6156</Id>
+          <ActionType>Comment</ActionType>
+          <Duration>0</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <Context>Created by Almighty — STEAM_0:0:7572 — github/rydland</Context>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <InputMode>0</InputMode>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <ConditionStartType>0</ConditionStartType>
+          <DecimalContext1>0</DecimalContext1>
+          <DecimalContext2>0</DecimalContext2>
+          <DateContext1>0001-01-01T00:00:00</DateContext1>
+          <DateContext2>0001-01-01T00:00:00</DateContext2>
+          <Disabled>false</Disabled>
+          <RandomSounds />
+        </CommandAction>
+        <CommandAction>
+          <_caption>Marker: RESET</_caption>
+          <PairingSet>false</PairingSet>
+          <PairingSetElse>false</PairingSetElse>
+          <Ordinal>1</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <ConditionSkip>false</ConditionSkip>
+          <IsSuffixAction>false</IsSuffixAction>
+          <DecimalTransient1>0</DecimalTransient1>
+          <Caption>Marker: RESET</Caption>
+          <Id>b9efd605-79c4-469b-a32c-ebd7d2c71302</Id>
+          <ActionType>Marker</ActionType>
+          <Duration>0</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <Context>RESET</Context>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <InputMode>0</InputMode>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <ConditionStartType>0</ConditionStartType>
+          <DecimalContext1>0</DecimalContext1>
+          <DecimalContext2>0</DecimalContext2>
+          <DateContext1>0001-01-01T00:00:00</DateContext1>
+          <DateContext2>0001-01-01T00:00:00</DateContext2>
+          <Disabled>false</Disabled>
+          <RandomSounds />
+        </CommandAction>
+        <CommandAction>
+          <_caption>Move mouse down [8196] relative mickey(s) (from cursor position)</_caption>
+          <PairingSet>false</PairingSet>
+          <PairingSetElse>false</PairingSetElse>
+          <Ordinal>2</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <ConditionSkip>false</ConditionSkip>
+          <IsSuffixAction>false</IsSuffixAction>
+          <DecimalTransient1>0</DecimalTransient1>
+          <Caption>Move mouse down [8196] relative mickey(s) (from cursor position)</Caption>
+          <Id>8bc8f75c-3737-479f-bc09-4da455b7d099</Id>
+          <ActionType>MouseAction</ActionType>
+          <Duration>0</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <Context>MMD</Context>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <InputMode>1</InputMode>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartOperator>1</ConditionStartOperator>
+          <ConditionStartValue>128</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <ConditionStartCompareToCondtion>8196</ConditionStartCompareToCondtion>
+          <ConditionStartType>1</ConditionStartType>
+          <DecimalContext1>0</DecimalContext1>
+          <DecimalContext2>1.024</DecimalContext2>
+          <DateContext1>0001-01-01T00:00:00</DateContext1>
+          <DateContext2>0001-01-01T00:00:00</DateContext2>
+          <Disabled>false</Disabled>
+          <RandomSounds />
+        </CommandAction>
+        <CommandAction>
+          <_caption>Pause 0.128 seconds</_caption>
+          <PairingSet>false</PairingSet>
+          <PairingSetElse>false</PairingSetElse>
+          <Ordinal>3</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <ConditionSkip>false</ConditionSkip>
+          <IsSuffixAction>false</IsSuffixAction>
+          <DecimalTransient1>0</DecimalTransient1>
+          <Caption>Pause 0.128 seconds</Caption>
+          <Id>f349892a-4b6f-456a-8448-261775bd9355</Id>
+          <ActionType>Pause</ActionType>
+          <Duration>0.128</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <InputMode>0</InputMode>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <ConditionStartType>0</ConditionStartType>
+          <DecimalContext1>0</DecimalContext1>
+          <DecimalContext2>0</DecimalContext2>
+          <DateContext1>0001-01-01T00:00:00</DateContext1>
+          <DateContext2>0001-01-01T00:00:00</DateContext2>
+          <Disabled>false</Disabled>
+          <RandomSounds />
+        </CommandAction>
+        <CommandAction>
+          <_caption>Click left mouse button</_caption>
+          <PairingSet>false</PairingSet>
+          <PairingSetElse>false</PairingSetElse>
+          <Ordinal>4</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <ConditionSkip>false</ConditionSkip>
+          <IsSuffixAction>false</IsSuffixAction>
+          <DecimalTransient1>0</DecimalTransient1>
+          <Caption>Click left mouse button</Caption>
+          <Id>98ab044b-aa5f-465b-9a66-d9163c6ef66e</Id>
+          <ActionType>MouseAction</ActionType>
+          <Duration>0</Duration>
+          <Delay>0.016</Delay>
+          <KeyCodes />
+          <Context>LC</Context>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <InputMode>0</InputMode>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <ConditionStartType>0</ConditionStartType>
+          <DecimalContext1>0</DecimalContext1>
+          <DecimalContext2>0</DecimalContext2>
+          <DateContext1>0001-01-01T00:00:00</DateContext1>
+          <DateContext2>0001-01-01T00:00:00</DateContext2>
+          <Disabled>false</Disabled>
+          <RandomSounds />
+        </CommandAction>
+        <CommandAction>
+          <_caption>Pause 9.128 seconds</_caption>
+          <PairingSet>false</PairingSet>
+          <PairingSetElse>false</PairingSetElse>
+          <Ordinal>5</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <ConditionSkip>false</ConditionSkip>
+          <IsSuffixAction>false</IsSuffixAction>
+          <DecimalTransient1>0</DecimalTransient1>
+          <Caption>Pause 9.128 seconds</Caption>
+          <Id>d7094b84-17c0-471e-aae6-4086e99f7058</Id>
+          <ActionType>Pause</ActionType>
+          <Duration>9.128</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <InputMode>0</InputMode>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <ConditionStartType>0</ConditionStartType>
+          <DecimalContext1>0</DecimalContext1>
+          <DecimalContext2>0</DecimalContext2>
+          <DateContext1>0001-01-01T00:00:00</DateContext1>
+          <DateContext2>0001-01-01T00:00:00</DateContext2>
+          <Disabled>false</Disabled>
+          <RandomSounds />
+        </CommandAction>
+        <CommandAction>
+          <_caption>Move mouse up [728] relative mickey(s) (from cursor position)</_caption>
+          <PairingSet>false</PairingSet>
+          <PairingSetElse>false</PairingSetElse>
+          <Ordinal>6</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <ConditionSkip>false</ConditionSkip>
+          <IsSuffixAction>false</IsSuffixAction>
+          <DecimalTransient1>0</DecimalTransient1>
+          <Caption>Move mouse up [728] relative mickey(s) (from cursor position)</Caption>
+          <Id>1ac03795-44bf-4d33-b446-01859e213169</Id>
+          <ActionType>MouseAction</ActionType>
+          <Duration>0</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <Context>MMU</Context>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <InputMode>1</InputMode>
+          <ConditionSetName xml:space="preserve">1000</ConditionSetName>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartNameFrom>728</ConditionStartNameFrom>
+          <ConditionStartOperator>1</ConditionStartOperator>
+          <ConditionStartValue>128</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <ConditionStartCompareToCondtion>2300</ConditionStartCompareToCondtion>
+          <ConditionStartType>1</ConditionStartType>
+          <DecimalContext1>0</DecimalContext1>
+          <DecimalContext2>1.024</DecimalContext2>
+          <DateContext1>0001-01-01T00:00:00</DateContext1>
+          <DateContext2>0001-01-01T00:00:00</DateContext2>
+          <Disabled>false</Disabled>
+          <RandomSounds />
+        </CommandAction>
+        <CommandAction>
+          <_caption>Pause 0.128 seconds</_caption>
+          <PairingSet>false</PairingSet>
+          <PairingSetElse>false</PairingSetElse>
+          <Ordinal>7</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <ConditionSkip>false</ConditionSkip>
+          <IsSuffixAction>false</IsSuffixAction>
+          <DecimalTransient1>0</DecimalTransient1>
+          <Caption>Pause 0.128 seconds</Caption>
+          <Id>832f1fb7-2997-4813-8faf-ecbfd025bf42</Id>
+          <ActionType>Pause</ActionType>
+          <Duration>0.128</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <InputMode>0</InputMode>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <ConditionStartType>0</ConditionStartType>
+          <DecimalContext1>0</DecimalContext1>
+          <DecimalContext2>0</DecimalContext2>
+          <DateContext1>0001-01-01T00:00:00</DateContext1>
+          <DateContext2>0001-01-01T00:00:00</DateContext2>
+          <Disabled>false</Disabled>
+          <RandomSounds />
+        </CommandAction>
+        <CommandAction>
+          <_caption>Start Loop : Repeat 256 Times</_caption>
+          <PairingSet>false</PairingSet>
+          <PairingSetElse>false</PairingSetElse>
+          <Ordinal>8</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <ConditionSkip>false</ConditionSkip>
+          <IsSuffixAction>false</IsSuffixAction>
+          <DecimalTransient1>0</DecimalTransient1>
+          <Caption>Start Loop : Repeat 256 Times</Caption>
+          <Id>14ac566d-17ee-4cb7-9c2b-963d50d68452</Id>
+          <ActionType>WhileStart</ActionType>
+          <Duration>0</Duration>
+          <Delay>1</Delay>
+          <KeyCodes />
+          <Context>256</Context>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <InputMode>0</InputMode>
+          <ConditionPairing>12</ConditionPairing>
+          <ConditionGroup>1</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <ConditionStartType>0</ConditionStartType>
+          <DecimalContext1>0</DecimalContext1>
+          <DecimalContext2>0</DecimalContext2>
+          <DateContext1>0001-01-01T00:00:00</DateContext1>
+          <DateContext2>0001-01-01T00:00:00</DateContext2>
+          <Disabled>false</Disabled>
+          <RandomSounds />
+        </CommandAction>
+        <CommandAction>
+          <_caption>    Click left mouse button</_caption>
+          <PairingSet>false</PairingSet>
+          <PairingSetElse>false</PairingSetElse>
+          <Ordinal>9</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>1</IndentLevel>
+          <ConditionSkip>false</ConditionSkip>
+          <IsSuffixAction>false</IsSuffixAction>
+          <DecimalTransient1>0</DecimalTransient1>
+          <Caption>    Click left mouse button</Caption>
+          <Id>a42c7693-f0cf-4a17-9864-b2c97a2ee09c</Id>
+          <ActionType>MouseAction</ActionType>
+          <Duration>0</Duration>
+          <Delay>0.016</Delay>
+          <KeyCodes />
+          <Context>LC</Context>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <InputMode>0</InputMode>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <ConditionStartType>0</ConditionStartType>
+          <DecimalContext1>0</DecimalContext1>
+          <DecimalContext2>0</DecimalContext2>
+          <DateContext1>0001-01-01T00:00:00</DateContext1>
+          <DateContext2>0001-01-01T00:00:00</DateContext2>
+          <Disabled>false</Disabled>
+          <RandomSounds />
+        </CommandAction>
+        <CommandAction>
+          <_caption>    Pause 0.016 seconds</_caption>
+          <PairingSet>false</PairingSet>
+          <PairingSetElse>false</PairingSetElse>
+          <Ordinal>10</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>1</IndentLevel>
+          <ConditionSkip>false</ConditionSkip>
+          <IsSuffixAction>false</IsSuffixAction>
+          <DecimalTransient1>0</DecimalTransient1>
+          <Caption>    Pause 0.016 seconds</Caption>
+          <Id>1eff2f99-18e1-4f4d-8a56-fe64a226db18</Id>
+          <ActionType>Pause</ActionType>
+          <Duration>0.016</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <InputMode>0</InputMode>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <ConditionStartType>0</ConditionStartType>
+          <DecimalContext1>0</DecimalContext1>
+          <DecimalContext2>0</DecimalContext2>
+          <DateContext1>0001-01-01T00:00:00</DateContext1>
+          <DateContext2>0001-01-01T00:00:00</DateContext2>
+          <Disabled>false</Disabled>
+          <RandomSounds />
+        </CommandAction>
+        <CommandAction>
+          <_caption>    Move mouse left [28] relative mickey(s) (from cursor position)</_caption>
+          <PairingSet>false</PairingSet>
+          <PairingSetElse>false</PairingSetElse>
+          <Ordinal>11</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>1</IndentLevel>
+          <ConditionSkip>false</ConditionSkip>
+          <IsSuffixAction>false</IsSuffixAction>
+          <DecimalTransient1>0</DecimalTransient1>
+          <Caption>    Move mouse left [28] relative mickey(s) (from cursor position)</Caption>
+          <Id>78f895cd-f174-426b-9ab7-20ec85b0e480</Id>
+          <ActionType>MouseAction</ActionType>
+          <Duration>0</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <Context>MML</Context>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <InputMode>1</InputMode>
+          <ConditionSetName xml:space="preserve">28</ConditionSetName>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartNameFrom>1000</ConditionStartNameFrom>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <ConditionStartCompareToCondtion>2300</ConditionStartCompareToCondtion>
+          <ConditionStartType>0</ConditionStartType>
+          <DecimalContext1>0</DecimalContext1>
+          <DecimalContext2>0</DecimalContext2>
+          <DateContext1>0001-01-01T00:00:00</DateContext1>
+          <DateContext2>0001-01-01T00:00:00</DateContext2>
+          <Disabled>false</Disabled>
+          <RandomSounds />
+        </CommandAction>
+        <CommandAction>
+          <_caption>End Loop</_caption>
+          <PairingSet>true</PairingSet>
+          <PairingSetElse>false</PairingSetElse>
+          <Ordinal>12</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <ConditionSkip>false</ConditionSkip>
+          <IsSuffixAction>false</IsSuffixAction>
+          <DecimalTransient1>0</DecimalTransient1>
+          <Caption>End Loop</Caption>
+          <Id>0a18e3b8-ce51-400b-bf2d-6edb562d29a1</Id>
+          <ActionType>WhileEnd</ActionType>
+          <Duration>0</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <InputMode>0</InputMode>
+          <ConditionPairing>8</ConditionPairing>
+          <ConditionGroup>1</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <ConditionStartType>0</ConditionStartType>
+          <DecimalContext1>0</DecimalContext1>
+          <DecimalContext2>0</DecimalContext2>
+          <DateContext1>0001-01-01T00:00:00</DateContext1>
+          <DateContext2>0001-01-01T00:00:00</DateContext2>
+          <Disabled>false</Disabled>
+          <RandomSounds />
+        </CommandAction>
+        <CommandAction>
+          <_caption>Pause 4.512 seconds</_caption>
+          <PairingSet>false</PairingSet>
+          <PairingSetElse>false</PairingSetElse>
+          <Ordinal>13</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <ConditionSkip>false</ConditionSkip>
+          <IsSuffixAction>false</IsSuffixAction>
+          <DecimalTransient1>0</DecimalTransient1>
+          <Caption>Pause 4.512 seconds</Caption>
+          <Id>7b3e67bb-d89c-4ff7-88ee-41d300814048</Id>
+          <ActionType>Pause</ActionType>
+          <Duration>4.512</Duration>
+          <Delay>0</Delay>
+          <KeyCodes />
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <InputMode>0</InputMode>
+          <ConditionPairing>0</ConditionPairing>
+          <ConditionGroup>0</ConditionGroup>
+          <ConditionStartOperator>0</ConditionStartOperator>
+          <ConditionStartValue>0</ConditionStartValue>
+          <ConditionStartValueType>0</ConditionStartValueType>
+          <ConditionStartType>0</ConditionStartType>
+          <DecimalContext1>0</DecimalContext1>
+          <DecimalContext2>0</DecimalContext2>
+          <DateContext1>0001-01-01T00:00:00</DateContext1>
+          <DateContext2>0001-01-01T00:00:00</DateContext2>
+          <Disabled>false</Disabled>
+          <RandomSounds />
+        </CommandAction>
+        <CommandAction>
+          <_caption>Jump to Marker: RESET</_caption>
+          <PairingSet>false</PairingSet>
+          <PairingSetElse>false</PairingSetElse>
+          <Ordinal>14</Ordinal>
+          <ConditionMet xsi:nil="true" />
+          <IndentLevel>0</IndentLevel>
+          <ConditionSkip>false</ConditionSkip>
+          <IsSuffixAction>false</IsSuffixAction>
+          <DecimalTransient1>0</DecimalTransient1>
+          <Caption>Jump to Marker: RESET</Caption>
+          <Id>e7f9b850-5fa9-45e9-995b-8274f5a109b6</Id>
           <ActionType>Jump</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -980,11 +1566,11 @@
       <joystickButton2>0</joystickButton2>
       <joystickUp>false</joystickUp>
       <KeepRepeating>false</KeepRepeating>
-      <UseProcessOverride>true</UseProcessOverride>
+      <UseProcessOverride>false</UseProcessOverride>
       <ProcessOverride>Life is Feudal: MMO @ Godenland (Standard ruleset World)</ProcessOverride>
       <ProcessOverrideActiveWindow>false</ProcessOverrideActiveWindow>
-      <LostFocusStop>true</LostFocusStop>
-      <PauseLostFocus>true</PauseLostFocus>
+      <LostFocusStop>false</LostFocusStop>
+      <PauseLostFocus>false</PauseLostFocus>
       <LostFocusBackCompat>true</LostFocusBackCompat>
       <UseMouse>false</UseMouse>
       <Mouse1>false</Mouse1>
@@ -999,7 +1585,7 @@
       <MouseUpOnly>false</MouseUpOnly>
       <MousePassThru>true</MousePassThru>
       <joystickExclusive>false</joystickExclusive>
-      <lastEditedAction>7009e8af-87c1-4aa8-8644-97e6c27a3cc1</lastEditedAction>
+      <lastEditedAction>abe8155e-05fc-49ab-8c8e-9b39ac0269f7</lastEditedAction>
       <UseProfileProcessOverride>false</UseProfileProcessOverride>
       <ProfileProcessOverrideActiveWindow>false</ProfileProcessOverrideActiveWindow>
       <RepeatIfKeysDown>false</RepeatIfKeysDown>
@@ -1025,11 +1611,11 @@
       <IsOverride>false</IsOverride>
       <BaseId>8569af31-aaae-4e38-a5ac-d5f2869e8da6</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
-      <Id>2bedd5b0-b996-41eb-b5e0-3e839acb61a4</Id>
+      <Id>def04987-b8da-413c-bc6f-e0c008b2bb2c</Id>
       <CommandString>Boost</CommandString>
       <ActionSequence>
         <CommandAction>
-          <_caption>Created by God Almighty — STEAM_0:0:7572 — github/rydland</_caption>
+          <_caption>Created by Almighty — STEAM_0:0:7572 — github/rydland</_caption>
           <PairingSet>false</PairingSet>
           <PairingSetElse>false</PairingSetElse>
           <Ordinal>0</Ordinal>
@@ -1038,13 +1624,13 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Caption>Created by God Almighty — STEAM_0:0:7572 — github/rydland</Caption>
-          <Id>ba5278d7-903b-45c7-add0-b3c989d52bb0</Id>
+          <Caption>Created by Almighty — STEAM_0:0:7572 — github/rydland</Caption>
+          <Id>c7409c51-aec0-4991-a3b1-c9a0751d7502</Id>
           <ActionType>Comment</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>Created by God Almighty — STEAM_0:0:7572 — github/rydland</Context>
+          <Context>Created by Almighty — STEAM_0:0:7572 — github/rydland</Context>
           <X>0</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -1073,7 +1659,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Press Left Win+X keys and hold for 0.128 seconds and release</Caption>
-          <Id>73966ca1-2d66-4051-8b39-538080e865c6</Id>
+          <Id>e2a6e642-1b64-4e08-a837-cdfda3fa1537</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.128</Duration>
           <Delay>0</Delay>
@@ -1110,7 +1696,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Pause 0.064 seconds</Caption>
-          <Id>0452a960-df64-41cb-8a7f-ce07787c3a61</Id>
+          <Id>b47792ee-4d42-4f54-8963-468f01699ca4</Id>
           <ActionType>Pause</ActionType>
           <Duration>0.064</Duration>
           <Delay>0</Delay>
@@ -1143,7 +1729,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Press I key and hold for 0.064 seconds and release</Caption>
-          <Id>a84cdfb4-3b20-4d79-9c3a-9d9025ee3e8e</Id>
+          <Id>035e5158-8f24-4ad4-900a-2580a1b33987</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.064</Duration>
           <Delay>0</Delay>
@@ -1169,7 +1755,7 @@
           <RandomSounds />
         </CommandAction>
         <CommandAction>
-          <_caption>Pause 0.256 seconds</_caption>
+          <_caption>Pause 4.096 seconds</_caption>
           <PairingSet>false</PairingSet>
           <PairingSetElse>false</PairingSetElse>
           <Ordinal>4</Ordinal>
@@ -1178,10 +1764,10 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Caption>Pause 0.256 seconds</Caption>
-          <Id>d9ea84c0-2fc1-4d21-87ba-a4961f7d3792</Id>
+          <Caption>Pause 4.096 seconds</Caption>
+          <Id>d4f13262-a5ec-411c-b2a1-ed16f6132f6b</Id>
           <ActionType>Pause</ActionType>
-          <Duration>0.256</Duration>
+          <Duration>4.096</Duration>
           <Delay>0</Delay>
           <KeyCodes />
           <X>0</X>
@@ -1212,7 +1798,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set Windows clipboard to 'Get-WmiObject Win32_process -filter 'name = "cm_client.exe"' | foreach-object '</Caption>
-          <Id>7f285d7e-2827-493b-bde5-281530f71db8</Id>
+          <Id>c471b8a4-fa85-4067-b0db-52b8ba1eb9a2</Id>
           <ActionType>SetClipboard</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1246,7 +1832,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Press Left Ctrl+V keys and hold for 0.032 seconds and release</Caption>
-          <Id>f66919e7-d28c-4885-a745-e8b995d14f7b</Id>
+          <Id>1a83b8e2-d052-430b-aa83-0449b6540724</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.032</Duration>
           <Delay>0</Delay>
@@ -1283,7 +1869,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set Windows clipboard to '{'</Caption>
-          <Id>16620fe1-876b-4d5b-ace9-57f9f63ad29d</Id>
+          <Id>5caa033a-e46f-42d1-a1bb-824902bf73ba</Id>
           <ActionType>SetClipboard</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1317,7 +1903,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Press Left Ctrl+V keys and hold for 0.032 seconds and release</Caption>
-          <Id>e17bf3b1-0daf-458d-b698-24e918caf32c</Id>
+          <Id>bbc8e13b-f82c-4ecc-b538-1bb94a7da2f8</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.032</Duration>
           <Delay>0</Delay>
@@ -1354,7 +1940,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set Windows clipboard to ' $_.SetPriority(128) }'</Caption>
-          <Id>af0482a0-b2b8-4a30-a318-be89802e99b6</Id>
+          <Id>7634e067-0c4a-4824-9de7-35168b66d06a</Id>
           <ActionType>SetClipboard</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1388,7 +1974,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Press Left Ctrl+V keys and hold for 0.032 seconds and release</Caption>
-          <Id>9985c82e-5e1a-4534-8849-0b55d16dd2a5</Id>
+          <Id>d6dbbba7-4714-41b2-b673-143799580460</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.032</Duration>
           <Delay>0</Delay>
@@ -1425,7 +2011,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Press Enter key and hold for 0.016 seconds and release</Caption>
-          <Id>3b75138e-aa96-4adb-b6aa-e3d27411d2ef</Id>
+          <Id>b3abf26e-c613-4427-b86b-64f95e8f1065</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.016</Duration>
           <Delay>0</Delay>
@@ -1461,7 +2047,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Pause 1.024 seconds</Caption>
-          <Id>d99a3495-ba48-47d8-a726-3af0cf209c66</Id>
+          <Id>e2b5d121-1ebf-4b39-ba15-04b2d03e7acb</Id>
           <ActionType>Pause</ActionType>
           <Duration>1.024</Duration>
           <Delay>0</Delay>
@@ -1494,7 +2080,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Set Windows clipboard to 'exit'</Caption>
-          <Id>b601680c-2bbe-40e8-9d9c-80ea4fec0012</Id>
+          <Id>00bc5087-99c9-4812-9d33-7b198c74e0bc</Id>
           <ActionType>SetClipboard</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1528,7 +2114,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Press Left Ctrl+V keys and hold for 0.032 seconds and release</Caption>
-          <Id>247bb812-5bdd-477b-a1a6-7a7da631115e</Id>
+          <Id>acd0df47-4baf-4200-bf7b-d988248ff4f9</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.032</Duration>
           <Delay>0</Delay>
@@ -1565,7 +2151,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Press Enter key and hold for 0.016 seconds and release</Caption>
-          <Id>a06112c7-680d-4408-ba70-bd1467b0366b</Id>
+          <Id>b208cc3e-f82d-469b-81db-e1e1d075d60a</Id>
           <ActionType>PressKey</ActionType>
           <Duration>0.016</Duration>
           <Delay>0</Delay>
@@ -1601,7 +2187,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Pause 0.064 seconds</Caption>
-          <Id>ba728d83-d8cf-48fd-91be-714ff8b0faad</Id>
+          <Id>9251d49c-9b46-45d6-8af9-3193d66ad6e2</Id>
           <ActionType>Pause</ActionType>
           <Duration>0.064</Duration>
           <Delay>0</Delay>
@@ -1634,7 +2220,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Close 'launcher' process</Caption>
-          <Id>c2d63ba0-be01-4cd4-84b5-1a484114dbc1</Id>
+          <Id>3d98904a-b0f6-47af-b1cb-f97e4a3436e5</Id>
           <ActionType>Kill</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1702,7 +2288,7 @@
       <MouseUpOnly>false</MouseUpOnly>
       <MousePassThru>true</MousePassThru>
       <joystickExclusive>false</joystickExclusive>
-      <lastEditedAction>830c07d3-f7bc-48af-ab13-3f589910ca38</lastEditedAction>
+      <lastEditedAction>d9da61ef-a22c-4e6c-9035-cdab11faa119</lastEditedAction>
       <UseProfileProcessOverride>false</UseProfileProcessOverride>
       <ProfileProcessOverrideActiveWindow>false</ProfileProcessOverrideActiveWindow>
       <RepeatIfKeysDown>false</RepeatIfKeysDown>
@@ -1728,11 +2314,11 @@
       <IsOverride>false</IsOverride>
       <BaseId>365061f1-e19f-495f-8835-f31e3be246bd</BaseId>
       <OriginId>00000000-0000-0000-0000-000000000000</OriginId>
-      <Id>b1e4882f-c5ee-40c5-8730-c223628b5c14</Id>
+      <Id>48b0ea5b-6dde-4d2c-a4f5-89be7007f475</Id>
       <CommandString>Stop</CommandString>
       <ActionSequence>
         <CommandAction>
-          <_caption>Created by God Almighty — STEAM_0:0:7572 — github/rydland</_caption>
+          <_caption>Created by Almighty — STEAM_0:0:7572 — github/rydland</_caption>
           <PairingSet>false</PairingSet>
           <PairingSetElse>false</PairingSetElse>
           <Ordinal>0</Ordinal>
@@ -1741,13 +2327,13 @@
           <ConditionSkip>false</ConditionSkip>
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
-          <Caption>Created by God Almighty — STEAM_0:0:7572 — github/rydland</Caption>
-          <Id>ab4b208c-fc54-4aae-a86b-671cabdbd895</Id>
+          <Caption>Created by Almighty — STEAM_0:0:7572 — github/rydland</Caption>
+          <Id>16c47fe2-2007-4761-9737-c7df2cf4524e</Id>
           <ActionType>Comment</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
           <KeyCodes />
-          <Context>Created by God Almighty — STEAM_0:0:7572 — github/rydland</Context>
+          <Context>Created by Almighty — STEAM_0:0:7572 — github/rydland</Context>
           <X>0</X>
           <Y>0</Y>
           <Z>0</Z>
@@ -1776,7 +2362,7 @@
           <IsSuffixAction>false</IsSuffixAction>
           <DecimalTransient1>0</DecimalTransient1>
           <Caption>Stop VoiceAttack command processing</Caption>
-          <Id>675c1154-a380-4ebd-be55-e5eea09d74d1</Id>
+          <Id>ff7e2ce0-bd1d-4d69-8675-15722bcacebb</Id>
           <ActionType>InternalProcess_StopProcessing</ActionType>
           <Duration>0</Duration>
           <Delay>0</Delay>
@@ -1843,7 +2429,7 @@
       <MouseUpOnly>false</MouseUpOnly>
       <MousePassThru>true</MousePassThru>
       <joystickExclusive>false</joystickExclusive>
-      <lastEditedAction>00000000-0000-0000-0000-000000000000</lastEditedAction>
+      <lastEditedAction>fb1484d6-7b39-4880-9f33-cf9e91c59fa6</lastEditedAction>
       <UseProfileProcessOverride>false</UseProfileProcessOverride>
       <ProfileProcessOverrideActiveWindow>false</ProfileProcessOverrideActiveWindow>
       <RepeatIfKeysDown>false</RepeatIfKeysDown>
@@ -1899,7 +2485,7 @@
   <EnableProfileSwitch>false</EnableProfileSwitch>
   <CategoryGroups />
   <GroupCategory>false</GroupCategory>
-  <LastEditedCommand>b2c88766-0bda-48ac-b77f-d1a0dac6f2f6</LastEditedCommand>
+  <LastEditedCommand>c7229ec6-aa17-44fd-977d-5e40c54ae187</LastEditedCommand>
   <IS>0</IS>
   <IO>0</IO>
   <IP>0</IP>
