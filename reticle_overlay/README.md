@@ -12,4 +12,4 @@ Useful if you're doing PvE with a larger display resolution as the current retic
 9. Click "Scene item" ➜ "Add overlay" ➜ "Image".
 10. Select a preferred reticle from the "images" folder (autolif-master\reticle_overlay\images).
 11. Place the overlay image/reticle in the middle of the canvas.
-*  Remember to select "Game" as the Cature Mode in PlayClaw.
+*  Remember to select LiF under Cature Mode in PlayClaw.
