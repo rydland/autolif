@@ -39,7 +39,10 @@ Do not use these scripts to alter your gameplay in any way, shape or form. I, th
     * Automatically sows seeds or harvests crops on current and the next tiles in a straight walking pattern. Requires "Sow" as your left-click option on soil tiles and "Harvest" as your left-click option on crop tiles.
 * __AutoHerb__
   * _[Shift + F2]_
-    * Automatically looks for herbs on current tile and gathers them. Requires "Look for Herbs" as your left-click option on grass tile. Make sure you're standing in the centre of a grass tile.
+    * Automatically looks for herbs on current tile and gathers them. Requires "Look for Herbs" as your left-click option on grass tile. Make sure you're standing in the centre of a compatible tile.
+* __AutoGather__
+  * _[Shift + F3]_
+    * Automatically looks for materials (branches, flint, stones and plant fiber) on current tile and gathers them. Requires "Look for Materials" as your left-click option on grass tile. Make sure you're standing in the centre of a compatible tile.
 ## WIP a/o 26/03/2019
 * AutoGather
   * AutoGather_FiberOnly
@@ -63,4 +66,6 @@ Do not use these scripts to alter your gameplay in any way, shape or form. I, th
 * _26/03/2019_
   1. Added multibox
   2. Added reticle_overlay
+* _27/03/2019_
+  1. Added AutoGather
 
