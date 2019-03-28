@@ -11,4 +11,4 @@ Useful during PvP to scout home base while you're out raiding or for a rendezvou
 1. Go to your desktop
 2. Right-click "launcher.exe - shortcut"
 3. Select "Run Sandboxed"
-*  _If you're frequently switching berween windows, remember to run your clients in "Borderless Windowed" display mode._
+*  _If you're frequently switching between windows, remember to run your clients in "Borderless Windowed" display mode._
