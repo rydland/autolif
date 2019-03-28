@@ -21,7 +21,7 @@ Do not use these scripts to alter your gameplay in any way, shape or form. I, th
 6. Select the profile and click, 'Open'.
 * _Scripts are now imported and ready to be used as soon as you've selected the correct VoiceAttack profile._
 * _You can execute scripts by pressing hotkeys for the corresponding features._
-#### [How to remove fog weather effect in LiF](https://github.com/rydland/autolif/tree/master/remove_fog)
+#### [How to remove fog weather effect in LiF](https://github.com/rydland/autolif/blob/master/remove_fog/README.md)
   * Useful during PvP, especially if you wish to scout or snipe enemies with a crossbow.
 #### [How to run multiple instances of LiF (multiboxing)](https://github.com/rydland/autolif/blob/master/multibox/README.md)
   * Useful during PvP to scout home base while you're out raiding or for a rendezvous point to heal your other characters.
