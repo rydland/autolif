@@ -1,4 +1,4 @@
-# AutoLiF  v1.3
+# AutoLiF  v1.4
 ### _*Automated scripts for LiF*_ 
 ##### _*Created by [Almighty](https://i.kym-cdn.com/photos/images/original/001/171/120/b2d.jpg) — [STEAM_0:0:7572](https://steamcommunity.com/id/mcbenis/) — [github/rydland](https://github.com/rydland)*_
 * Optimised for clients running at 60 FPS in "Windowed Borderless" display mode.
@@ -41,8 +41,11 @@ Do not use these scripts to alter your gameplay in any way, shape or form. I, th
   * _[Shift + F2]_
     * Automatically looks for herbs on current tile and gathers them. Requires "Look for Herbs" as your left-click option on grass tile. Make sure you're standing in the centre of a compatible tile.
 * __AutoGather__
-  * _[Shift + F3]_
+  * _[Shift + F5]_
     * Automatically looks for materials (branches, flint, stones and plant fiber) on current tile and gathers them. Requires "Look for Materials" as your left-click option on grass tile. Make sure you're standing in the centre of a compatible tile.
+* __AutoGather_FiberOnly__
+  * _[Shift + F6]_
+    * Automatically looks for plant fiber only on current tile and gathers them. Requires "Look for Materials" as your left-click option on grass tile. Make sure you're standing in the centre of a compatible tile.
 ## WIP a/o 26/03/2019
 * AutoGather
   * AutoGather_FiberOnly
